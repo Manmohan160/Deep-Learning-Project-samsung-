@@ -1,0 +1,53 @@
+{
+    "Text":
+    [
+    {
+        "aihub_id":7264611,
+        "en_text":"What needs to be done is to scoop up the boiled soup and side dishes on the table that wife made before she goes out, and feed them, which is not as easy as it sounds.",
+        "en_tokens":["What","needs","to","be","done","is","to","scoop","up","the","boiled","soup","and","side","dishes","on","the","table","that","wife","made","before","she","goes","out",",","and","feed","them",",","which","is","not","as","easy","as","it","sounds","."],
+        "en_ner_auto":[],
+        "ko_text":"아내가 외출하기 전 끓여놓은 국과 반찬을 식판에 떠서 먹이기만 하면 되는데 말처럼 쉬운 일이 아니다.",
+        "ko_tokens":["아내","가","외출","하","기","전","끓여","놓","은","국과","반찬","을","식판","에","떠서","먹이","기","만","하","면","되","는데","말","처럼","쉬운","일","이","아니","다","."],
+        "ko_ner_auto":[],
+        "en_ner_gold":[],
+        "ko_ner_gold":[],
+        "en_ko_ner_gold":[]
+    },
+    {
+        "aihub_id":21501410,
+        "en_text":"I'm ashamed of myself for holding only a spoon on a well-done table every time.",
+        "en_tokens":["I","'m","ashamed","of","myself","for","holding","only","a","spoon","on","a","well","-","done","table","every","time","."],
+        "en_ner_auto":[],
+        "ko_text":"매번 잘 차려진 밥상에 숟가락만 들었던 내 모습이 부끄러워진다.",
+        "ko_tokens":["매번","잘","차려진","밥상","에","숟가락","만","들","었","던","내","모습","이","부끄러워진다","."],
+        "ko_ner_auto":[],
+        "en_ner_gold":[],
+        "ko_ner_gold":[],
+        "en_ko_ner_gold":[]
+    },
+    {
+        "aihub_id":7264614,
+        "en_text":"Sometimes when I got home early on weekdays and ate with my family, I realized why my wife was always yelling at the children.",
+        "en_tokens":["Sometimes","when","I","got","home","early","on","weekdays","and","ate","with","my","family",",","I","realized","why","my","wife","was","always","yelling","at","the","children","."],
+        "en_ner_auto":[],
+        "ko_text":"가끔 평일에 일찍 들어가 가족들과 밥을 먹을 때 왜 아내가 그렇게 아이들에게 고함을 지르는지 깨달았다.",
+        "ko_tokens":["가끔","평일","에","일찍","들어가","가족","들","과","밥","을","먹","을","때","왜","아내","가","그렇게","아이","들","에게","고함","을","지르","는지","깨달","았","다","."],
+        "ko_ner_auto":[],
+        "en_ner_gold":[],
+        "ko_ner_gold":[],
+        "en_ko_ner_gold":[]
+    },
+    {
+        "aihub_id":7264613,
+        "en_text":"It has been less than 5 minutes since the children's meal was prepared, but breakfast takes 1 hour to be done.",
+        "en_tokens":["It","has","been","less","than","5","minutes","since","the","children","'s","meal","was","prepared",",","but","breakfast","takes","1","hour","to","be","done","."],
+        "en_ner_auto":[[3,7,"TIME"],[18,20,"TIME"]],
+        "ko_text":"분명 아이들 밥을 차린 시간은 5분이 채 되지 않았는데, 아침식사 시간은 한 시간이 지나서야 끝난다.",
+        "ko_tokens":["분명","아이","들","밥","을","차린","시간","은","5","분","이","채","되","지","않","았","는데",",","아침","식사","시간","은","한","시간","이","지나","서야","끝난다","."],
+        "ko_ner_auto":[[8,10,"DUR"],[22,24,"DUR"]],
+        "en_ner_gold":[[3,7,"TIME"],[18,20,"TIME"]],
+        "ko_ner_gold":[[8,10,"TIME"],[22,24,"TIME"]],
+        "en_ko_ner_gold":[[0,0],[1,1]]
+    }
+]
+}
