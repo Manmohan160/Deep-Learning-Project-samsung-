@@ -1,5 +1,8 @@
 The dataset is based on the Korean-English AI Training Text Corpus (KEAT) provided by AI Open Innovation Hub, which is operated by the Korean National Information Society Agency (NIA).
 
+The data set of ~10K pairs were downloaded from public repository 
+https://github.com/emorynlp/MRL-2021/tree/master/dataset/keat
+
 The dataset is in a JSON format as follows :
 
 [
