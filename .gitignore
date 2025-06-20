@@ -1,0 +1,23 @@
+# Ignore virtual environment
+koengage_env/
+
+# Ignore model folders
+mbart-koengage-finetuned/
+models/
+
+# Python cache and logs
+__pycache__/
+*.py[cod]
+*.log
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# OS & IDE stuff
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Data outputs (optional)
+*.csv
+*.json
