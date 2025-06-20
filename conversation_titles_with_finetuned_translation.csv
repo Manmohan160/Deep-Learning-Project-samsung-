@@ -1,0 +1,850 @@
+ko,en,pred_en_finetuned
+저는 유양이에요.,I'm Yooyang.,I'm Yooyang.
+유양 씨는 중국 사람이에요?,"Ms. Yooyang, are you Chinese?","Ms. Yooyang, are you Chinese?"
+저는 학생이 아니에요.,I'm not a student.,I'm not a student.
+저 사람은 흐엉 씨예요.,That person is Ms. Huong.,That person is Ms. Huong.
+다니엘 씨는 스티브 씨의 남동생이에요.,Mr. Daniel is Mr. Steve's younger brother.,Mr. Daniel is Mr. Steve's younger brother.
+흐엉 씨가 회사원이에요.,Huong is an office worker.,Huong is an office worker.
+아파트의 이름이 뭐예요?,What is the name of your apartment?,What is the name of your apartment?
+헬스클럽이 아주 넓어요.,The fitness club is very large.,The fitness club is very large.
+집이 작아요.,My house is small.,My house is small.
+방에 창문이 있어요.,There is a window in the room.,There is a window in the room.
+집에 애완동물이 있어요?,Is there a pet in your house?,Is there a pet in your house?
+베란다에 의자가 없어요.,There is no chair on the veranda.,There is no chair on the veranda.
+회사가 어디에 있어요?,Where is your company?,Where is your company?
+엘리베이터는 저쪽에 있어요.,The elevator is over there.,The elevator is over there.
+휴게실은 오 층하고 십 층에 있어요.,The lounges are on the fifth and tenth floors.,The lounges are on the fifth and tenth floors.
+복사기는 창문 앞에 있어요.,The copy machine is in front of the window.,The copy machine is in front of the window.
+사무실에 책상이 스무 개 있어요.,There are twenty desks in the office.,There are twenty desks in the office.
+사무실에 직원이 몇 명 있어요?,How many employees are there in the office?,How many employees are there in the office?
+저는 여동생이 있어요.,I have a younger sister.,I have a younger sister.
+누나도 있어요.,"I have an elder sister, too.","I have an elder sister, too."
+성격이 활발해요.,She is outgoing.,She is outgoing.
+여자 친구는 학생이에요.,My girlfriend is a student.,My girlfriend is a student.
+제 여자 친구는 키가 커요.,My girlfriend is tall.,My girlfriend is tall.
+우빈 씨는 여자 친구를 자주 만나요?,"Mr. Woobin, do you meet your girlfriend often?","Mr. Woobin, do you meet with your girlfriend often?"
+보통 커피숍에서 책을 읽어요.,I usually read books at coffee shops.,I usually read books at coffee shops.
+우빈 씨는 무슨 영화를 좋아해요?,"Mr. Woobin, what movies do you like?","Mr. Woobin, what movies do you like?"
+저는 운동을 배우고 싶어요.,I want to learn sports.,I want to learn sports.
+유양 씨가 테니스를 배우고 싶어 해요.,Yooyang wants to learn tennis.,Yooyang wants to learn tennis.
+여행을 자주 하지 않아요.,I don't travel often.,I don't travel often.
+저는 클래식 음악을 안 좋아해요.,I don't like classical music.,I don't like classical music.
+오전 열 시 삼십 분이에요.,It's 10:30 am.,It's 10:30 a.m.
+보통 11시에 자요.,I usually go to bed at eleven.,I usually go to bed at eleven.
+수영장에 가요.,I am going to the swimming pool.,I am going to the swimming pool.
+9시부터 수업이 있어요.,I have a class at nine.,I have a class starting from nine.
+오후 4시까지 수업이 있어요.,I have classes until 4:00 pm.,I have classes until 4:00 pm.
+몇 시까지 출근해요?,By what time do you go to work?,By what time do you go to work?
+같이 저녁을 먹을까요?,Shall we have dinner together?,Shall we have dinner together?
+어디에서 식사를 할까요?,Where shall we eat?,Where shall we eat?
+오랜만에 중국 음식을 먹읍시다.,Let's eat Chinese food. It's been a while since we ate Chinese.,Let's eat Chinese food. It's been a while since we ate Chinese.
+돼지갈비랑 냉면이 맛있어요.,Dwaejigalbi (barbecue pork rib) and naengmyun (cold noodles) are good.,Barbecued pork rib and cold noodles are good.
+여기 돼지갈비 2인분하고 냉면 주세요.,Please give us two orders of dwaejigalbi (barbecue pork rib) and one naengmyun (cold noodles).,Please give us two orders of barbecued pork rib and one order of cold noodles.
+그럼 돈가스나 치킨을 먹을까요?,"Then, shall we eat pork cutlet or chicken?","Then, shall we eat pork cutlet or chicken?"
+집에서 회사까지 얼마나 걸려요?,How long does it take from your house to your company?,How long does it take from your house to your company?
+서울역으로 갑시다.,Let's go to Seoul Station.,Let's go to Seoul Station.
+지하철로 갑시다.,Let's take the subway.,Let's take the subway.
+저는 운전을 하지 못해요.,I cannot drive.,I cannot drive.
+버스로 가지 맙시다.,Let's not take the bus.,Let's not take the bus.
+어른 표 1장과 어린이 표 1장 주세요.,Please give me one adult ticket and one child ticket.,Please give me one adult ticket and one child ticket.
+저는 파티에 못 가요.,I cannot go to the party.,I cannot go to the party.
+빵집에 케이크를 사러 가요.,I am going to the bakery to buy a cake.,I am going to the bakery to buy a cake.
+제가 과일과 음료수를 살까요?,Shall I buy some fruit and drinks?,Shall I buy some fruit and drinks?
+잊지 마세요.,Don't forget.,Don't forget.
+제 선물입니다.,It's a gift from me.,It's a gift from me.
+유양 씨 생일 파티가 오늘입니까?,Is Ms. Yooyang's birthday party today?,Is Ms. Yooyang's birthday party today?
+홍차가 아닙니다.,It's not black tea.,It's not black tea.
+배가 고픕니다.,I'm hungry.,I'm hungry.
+맛이 어떻습니까?,How does it taste?,How does it taste?
+생선은 자주 먹지 않습니다.,I don't eat fish often.,I don't eat fish often.
+저희 아버지께서 짜장면을 좋아하십니다.,My father likes jajangmyun (black noodles).,My father likes jajangmyun (black noodles).
+무슨 차를 좋아하십니까?,What kind of tea do you like?,What kind of tea do you like?
+우빈 씨가 자료를 준비하십시오.,"Mr. Woobin, please prepare the material.","Mr. Woobin, please prepare the material."
+회의에서 김 부장님께서 발표하십니까?,Is Kim Bujangnim going to make a presentation at the meeting?,Is Kim Bujangnim going to make a presentation at the meeting?
+다 만들었습니다.,I have finished preparing the material.,I have finished preparing the material.
+저희 팀원들과 같이 디자인을 했습니다.,I designed it together with my team members.,I designed it together with my team members.
+제가 이따가 예약하겠습니다.,I will make a reservation later.,I will make a reservation later.
+누가 발표를 하시겠어요?,Who will make a presentation?,Who will make the presentation?
+여자 친구에게 향수를 선물하고 싶어요.,I would like to buy my girlfriend perfume as a gift.,I would like to buy my girlfriend perfume as a gift.
+어머니께 드리고 싶어요.,I want to get one for my mother.,I want to give it to my mother.
+친구에게서 받았어요.,I received them from my friend.,I received them from my friend.
+할머니께 입학 선물을 받았어요.,My mother gavie it to me as a gift to celebrate my acceptance to the school.,My mother gavie it to me as a gift to celebrate my acceptance to the school.
+고향에서 왔어요.,They are from my hometown.,They are from my hometown.
+아버지께서 주셨어요.,My father gave it to me.,My father gave it to me.
+저쪽에 자전거를 빌리는 곳이 있어요.,There is a bike rental shop over there.,There is a bike rental shop over there.
+한강에 예쁜 꽃이 피었어요.,Beautiful flowers bloom in the Han River.,Beautiful flowers bloom in the Han River.
+오늘 저녁에 탈 유람선 표예요.,It's the ferry ticket for tonight.,It's the ferry ticket for tonight.
+어제 본 야경이 계속 생각나요.,I keep thinking about the night view I saw yesterday.,I keep thinking about the night view I saw yesterday.
+오늘 한강에 사람이 정말 많군요.,There are a lot of people at the Han River today.,There are a lot of people at the Han River today.
+저는 콜라보다 주스를 더 좋아해요.,I like juice more than coke.,I like juice more than coke.
+집들이를 할 거예요.,I'm going to have a housewarming party.,I'm going to have a housewarming party.
+꼭 갈게요.,I will definitely come.,I will definitely go.
+저는 매운 음식을 잘 먹지만 친구들은 매운 음식을 잘 못 먹어요.,"I can eat spicy food, but my friends cannot.","I can eat spicy food, but my friends cannot."
+아마 친구도 그 선물을 좋아할 거예요.,"Maybe, my friend will like the present.","Maybe, your friend will like the present."
+오늘 집들이에 초대한 친구들이 다 올까요?,Will all of my friends that I invited come to the housewarming party today?,Will all of my friends that I invited come to the housewarming party today?
+집이 깨끗하고 밝았어요.,The house was clean and bright.,The house was clean and bright.
+혼자 살아서 좀 외로워요.,I feel a bit lonely as I live alone.,I feel a bit lonely as I live alone.
+저는 수업이 끝나고 아르바이트를 해요.,I have a part-time job after class.,I have a part-time job after class.
+우리 학교 근처는 집값이 비싸지 않아요?,Isn't a house near our school expensive?,Isn't a house near our school expensive?
+그럼 이번 주말에 만나서 같이 공부해요.,"Then, let's meet this weekend to study together.","Then, let's meet this weekend and study together."
+일주일 후에 갈 거예요.,I'm going back in a week.,I'm going back in a week.
+여행을 한 후에 고향에 돌아갈 거예요.,I'm going back to my hometown after I travel around.,I'm going back to my hometown after I travel around.
+그 가수의 콘서트는 인기가 많으니까 빨리 예매합시다.,"That singer's concert is really popular, so let's hurry and book the tickets.","That singer's concert is really popular, so let's hurry and book the tickets."
+공연이 곧 시작되니까 빨리 오세요.,The performance is about to begin. So please come quickly.,The performance is about to begin. So please come quickly.
+저도 10분 전에 왔어요.,I got here ten minutes ago.,I got here ten minutes ago.
+저 가수 노래 정말 잘하지요?,"That singer sings really well, doesn't he?","That singer sings really well, doesn't he?"
+콘서트에 오기 전에 많이 들었어요.,I listened to them a lot before I came to the concert.,I listened to them a lot before I came to the concert.
+다음 콘서트에 가면 꼭 사인을 받을 거예요.,I will definitely get his signature when I go to his next concert.,I will definitely get his signature when I go to his next concert.
+거기 피자집 아니에요?,Isn't it a pizza house?,Isn't it a pizza house?
+서연 씨한테 한번 물어보세요.,Why don't you ask Ms. Seoyon?,Why don't you ask Ms. Seoyon?
+지금 적을 수 있어요?,Can you write it down now?,Can you write it down now?
+계속 통화 중이에요.,The line remains busy.,The line remains busy.
+지금은 제가 전화를 받을 수 없어요.,I can't speak on the phone right now.,I can't speak on the phone right now.
+급한 일이 아니니까 나중에 다시 걸게요.,"It's not urgent, so I will call later.","It's not urgent, so I will call later."
+골프를 칠 줄 알아요.,I know how to play golf.,I know how to play golf.
+저는 인라인스케이트를 탈 줄 몰라요.,I don't know how to inline skate.,I don't know how to inline skate.
+제 것으로 칩시다.,Let's play with mine.,Let's play with mine.
+야구 선수가 되고 싶었어요.,I wanted to become a baseball player.,I wanted to become a baseball player.
+일이 있어서 우리 형만 못 가요.,Only my elder brother can't go because he has work to do.,Only my elder brother can't go because he has work to do.
+하루에 한 시간쯤 해요.,I do for about an hour a day.,I do for about an hour a day.
+방학이 기네요.,The vacation is long.,The vacation is long.
+휴가 때 뭐 할 거예요?,What are you going to do during the holidays?,What are you going to do during the holidays?
+같이 갈래요?,Shall we go together?,Shall we go together?
+기차역으로 바로 오실래요?,Would you like to come directly to the train station?,Would you like to come directly to the train station?
+가까운 섬으로 가려고 해요.,I are going to go to a nearby island.,I am going to go to a nearby island.
+저는 안 가려고 해요.,I am not going though.,I am not going though.
+친구가 준 선물인데 아주 마음에 들어요.,It is a gift from my friend and I like it a lot.,It is a gift from my friend and I like it a lot.
+헤어질 때 울었어요?,Did you cry when you were separated?,Did you cry when you were separated?
+프랑스에 여행을 갔을 때 찍은 사진이에요.,It is a picture that I took when I went on a trip to France.,It is a picture that I took when I went on a trip to France.
+제가 집에 가는데 저를 따라왔어요.,I was on my way home and it followed me.,I was on my way home and it followed me.
+귀걸이가 떨어졌는데 안 보여요.,"I dropped my earring, but I can't find it.","I dropped my earring, but I can't find it."
+제 손바닥에 사인을 해 줬어요.,He signed his signature on my palm.,He signed his signature on my palm.
+길 좀 가르쳐 주시겠어요?,Would you please show me the way?,Would you please show me the way?
+우리 강아지 좀 돌봐 줄 수 있어요?,Can you take care of my puppy?,Can you take care of my puppy?
+집까지 태워 주셔서 고맙습니다.,Thank you for giving me a ride home.,Thank you for giving me a ride home.
+제가 전해 드릴게요.,I'll give it to her.,I'll give it to her.
+제가 짐을 옮겨 드릴까요?,Do you want me to move your stuff?,Do you want me to move your stuff?
+저는 서비스 센터에 맡기려고 했어요.,I was going to leave it at the service center.,I was going to leave it at the service center.
+방이 너무 더러워서 청소를 하고 있어요.,"The room is so messy, so I an cleaning it.","The room is so messy, so I am cleaning it."
+저쪽에 있는 장갑을 끼고 설거지를 하세요.,"Please put on gloves over there. With gloves on, please wash the dishes.","Please put on gloves over there. With gloves on, please wash the dishes."
+저는 청소기를 쓰지 않고 직접 쓸고 닦아요.,I personally sweep and mop without using a vacuum cleaner.,I personally sweep and mop without using a vacuum cleaner.
+왜 앞치마를 하고 있어요?,Why are you wearing an apron?,Why are you wearing an apron?
+지금 뭐 하고 계세요?,What are you doing now?,What are you doing now?
+집안일 중에서 뭐가 제일 귀찮아요?,"Among household chores, what is the most bothersome?","Among household chores, what is the most bothersome?"
+우리 동호회에서 누가 제일 마음에 들어요?,Who do you like most in our club?,Who do you like most in our club?
+영화 감상인 것 같아요.,It seems to be watching movies.,It seems to be watching movies.
+서연 씨는 회사 일이 많은 것 같아요.,It seems that Ms. Seoyon has a lot of work at her company.,It seems that Ms. Seoyon has a lot of work at her company.
+서연 씨도 스티브 씨를 좋아하는 것 같아요?,"Do you think Ms. Seoyon also likes you, Mr. Steve?","Do you think Ms. Seoyon also likes you, Mr. Steve?"
+서연 씨는 영문학을 전공한 것 같아요.,It seems that Ms. Seoyon majored in English literature.,It seems that Ms. Seoyon majored in English literature.
+인형은 싫어할 것 같아요.,I guess she would not like a stuffed animal.,I guess she would not like a stuffed animal.
+야식도 자주 먹고요.,I also eat late night snack often.,I also eat late night snack often.
+스트레스 때문에 잠을 못 자는 것 같아요.,It seems that I don't sleep well because of stress.,It seems that I don't sleep well because of stress.
+요즘 환절기이기 때문에 감기에 걸린 사람이 많아요.,There are many people who have caught a cold because of the seasonal change these days.,There are many people who have caught a cold because of the seasonal change these days.
+저는 커피를 안 마시면 졸리기 때문에 커피를 많이 마셔요.,I drink a lot of coffee because I feel sleepy when I don't drink it.,I drink a lot of coffee because I feel sleepy when I don't drink it.
+감기 때문이에요.,It's because of a cold.,It's because of a cold.
+인스턴트식품을 많이 먹으면 건강이 나빠져요.,"If you eat too much instant food, your health will worsen.","If you eat too much instant food, your health will worsen."
+요즘 일 때문에 스트레스가 쌓여서 건강이 나빠졌어요.,"I've been stressed out lately because of my work, so my health has gotten worse.","I've been stressed out lately because of my work, so my health has gotten worse."
+건강이 좀 안 좋아져서 운동을 시작하려고요.,"My health has gotten worse, so I want to start exercise.","My health has gotten worse, so I want to start exercise."
+두 달 정도 요가를 해 봤어요.,I have tried practicing yoga for about two months.,I have tried practicing yoga for about two months.
+운동을 안 해 봤어요.,I haven't exercised.,I haven't exercised.
+운동하시기 전에 준비 운동부터 하세요.,Please do some warm ups first before you start exercise.,Please do some warm ups first before you start exercise.
+일주일에 세 번은 운동을 하셔야 해요.,You should exercise three times a week.,You should exercise three times a week.
+가족 여행을 가려고 알아보고 있어요.,I am searching information to go on a family trip.,I am searching information to go on a family trip.
+국내 여행을 하고 싶은데 좋은 곳을 알아요?,I want to travel around the country; do you know a good place to go?,I want to travel around the country; do you know a good place to go?
+한옥에서 묵은 적이 있어요.,I have stayed in a traditional Korean house before.,I have stayed in a traditional Korean house before.
+혼자 여행을 한 적이 없어요.,I have not travelled alone before.,I have not travelled alone before.
+지금까지 여행한 곳 중에서 어디가 제일 좋았어요?,Where is the best place you have travelled so far?,Where is the best place you have travelled so far?
+바닷가여서 해물이 신선하겠어요.,The seafood must be fresh as it is on the coast.,The seafood must be fresh as it is on the coast.
+남자 친구하고 헤어진 지 3개월 됐어요.,It's been three months since I broke up with my boyfriend.,It's been three months since I broke up with my boyfriend.
+어떤 여자를 좋아해요?,What type of woman do you like?,What type of woman do you like?
+처음 만났을 때 밝게 웃으세요.,"When you meet somebody for the first time, put on a bright smile.","When you meet somebody for the first time, put on a bright smile."
+저는 동물을 좋아하는데 가족들이 동물을 별로 안 좋아해요.,"I like animals, but my family doesn't like animals that much.","I like animals, but my family doesn't like animals that much."
+다음 주 토요일에 선약이 있는데요.,I have an appointment next Saturday.,I have an appointment next Saturday.
+좋은 분인 것 같아서 몇 번 더 만날까 해요.,I am thinking of meeting him a few times more as he seems to be a nice person.,I am thinking of meeting him several times more as he seems to be a nice person.
+그렇게 마음대로 연고를 바르면 안 돼요.,You shouldn't put on any kind of ointment at your own disposal.,You shouldn't put on any kind of ointment at your own disposal.
+우리 아들이 배를 아파해서 왔어요.,We are here because my son has a stomachache,We are here because my son has a stomachache
+눈이 아파서 왔는데요.,I am here because my eyes are sick.,I am here because my eyes are sick.
+아프지 않게 놓아 주세요.,Don’t' make the shot hurt.,Don’t' make the shot hurt.
+이렇게 부었는데 많이 아팠겠어요.,It must have been painful when it got swollen this much.,It must have been painful when it got swollen this much.
+이렇게 치료를 안 받으시면 빨리 안 낫는데요.,"If you don't get treatment like this, you won’t get well soon.","If you don't get treatment like this, you won’t get well soon."
+우리가 약속한 날은 내일인데요.,Our appointment date is tomorrow.,Our appointment date is tomorrow.
+선약이 있어서 못 가는데요.,I can't go because I have an appointment.,I can't go because I have an appointment.
+친구랑 쇼핑할 건데요.,I am going to go shopping with my friend.,I am going to go shopping with my friend.
+우리는 다음에 만나도 돼요.,We can meet next time.,We can meet next time.
+나가려고 준비하는 중이에요.,I'm getting ready to go out.,I'm getting ready to go out.
+새로 생긴 식당에 가 볼까요?,Shall we go to the new restaurant?,Shall we go to the new restaurant?
+남자 티셔츠를 하나 사려고 하는데요.,I am planning to buy a t-shirt for men.,I am planning to buy a t-shirt for men.
+선물 받으시는 분이 무슨 색 옷을 자주 입으시는데요?,What kind of colors does the person who receives the gift wear often?,What kind of colors does the person who receives the gift wear often?
+한번 입어 보세요.,Please try it on.,Please try it on.
+이거 입어 봐도 돼요?,Can I try this on?,Can I try this on?
+이번 주말에만 10퍼센트 할인하는데 하나 사세요.,It's on sale at 10% discount only on this weekend. Please by one.,It's on sale at 10% discount only on this weekend. Please buy one.
+이 가게는 좀 비싼데 다른 가게에 가 볼까요?,This shop is a bit expensive. Shall we go to another shop?,This shop is a bit expensive. Shall we go to another shop?
+그것으로 주세요.,Please give it to me.,Please give it to me.
+어느 것으로 드릴까요?,Which one would you like?,Which one would you like?
+음료수는 무엇으로 하시겠어요?,What kind of drinks would you like to have?,What kind of drinks would you like to have?
+그것으로 살게요.,I will buy it.,I will buy it.
+다음 주에 고향 친구들이 한국에 오기로 했어요.,My friends from my hometown have decided to come to Korea next week.,My friends from my hometown have decided to come to Korea next week.
+백화점에 가지 말고 이태원에 가 보세요.,Don’t go to a department store. Go to Itaewon instead.,Don’t go to a department store. Go to Itaewon instead.
+놀이공원에서 찍은 사진이야.,This is a picture that I took in the amusement park.,This is a picture that I took in the amusement park.
+놀이공원에 가면 재미있을 것 같아.,It would be fun if we go to the amusement park.,It would be fun if we go to the amusement park.
+놀이 기구는 뭐부터 탈까?,Which ride shall we go on first?,Which ride shall we go on first?
+여기 있는 사람들이 다 롤러코스터 타려고 기다리는 사람들이야?,Are all these people waiting to ride the roller coaster?,Are all these people waiting to ride the roller coaster?
+이렇게 무서운 놀이 기구는 태어나서 처음 타 봤어.,This is my first time to go on this scary ride.,This is my first time to go on this scary ride.
+우리 여기에서 같이 사진 한 장 찍자.,Let's take a picture together here.,Let's take a picture together here.
+방학 때 뭐 하고 지냈어?,How did you spend your vacation?,How did you spend your vacation?
+그 교수님 강의를 또 들을 거야.,Are you going to attend the professor's lecture again?,Are you going to attend the professor's lecture again?
+무슨 동아리에 들 거야?,Which club are you going to join?,Which club are you going to join?
+시험이 끝났으니까 오늘 우리 집에 놀러 와.,"Since the exam is over, please come over to my house.","Since the exam is over, please come over to my house."
+이렇게 과제가 많은 수업은 듣지 말자.,Let's not take the class with so many assignments.,Let's not take the class with so many assignments.
+커피를 너무 많이 마시지 마.,Don't drink coffee too much.,Don't drink coffee too much.
+하늘이 정말 뿌옇다.,The sky is really hazy.,The sky is really hazy.
+단풍놀이 가는구나.,You are going on hiking to watch the autumn leaves.,You are going on hiking to watch the autumn leaves.
+곧 소나기가 오겠다.,It looks like it's going to shower any minute.,It looks like it's going to shower any minute.
+언제 집에 들어올래?,When are you coming back home?,When are you coming back home?
+너무 더워서 집에서 쉴래.,It's so hot that I will take a rest at home. ,It's so hot that I will take a rest at home.
+눈이 많이 오는데 다음에 만나는 게 어때요?,"It snows a lot. So, how about meeting next time?","It snows a lot. So, how about meeting next time?"
+예약하고 가시는 게 좋겠어요.,It would be better to reserve one.,It would be better to reserve one.
+영화를 한 번 더 보려고 하는데 같이 보러 갈래요?,I am going to watch the movie once more. Would you like to come with me?,I am going to watch the movie once more. Would you like to come with me?
+매주 월요일마다 새 이야기가 올라와요.,New episodes are released every Monday.,New episodes are released every Monday.
+마음에 드는 문장마다 밑줄을 그어요.,I underline every sentence that I like.,I underline every sentence that I like.
+이 작가의 작품은 읽을 때마다 새로워요.,"Whenever I read this author's work, it always feels new.","Whenever I read this author's work, it always feels new."
+다음 작품도 빨리 나왔으면 좋겠어요.,I wish the next work would be released quickly.,I wish the next work would be released quickly.
+신분증을 꼭 가지고 오세요.,Please make sure to bring your ID.,Please make sure to bring your ID.
+전시회에 가 보니까 제가 아는 그림들도 많이 있었어요.,"When I went to the exhibition, there were a lot of familiar paintings that I knew about.","When I went to the exhibition, there were a lot of familiar paintings that I knew about."
+이번 주말에 패션쇼에 갈 건데 같이 갈래?,I am going to go to a fashion show this weekend. Will you come with me?,I am going to go to a fashion show this weekend. Will you come with me?
+영화 음악뿐만 아니라 배우들의 연기도 훌륭했어.,Not only the music of the movie but also the actors' acting was great.,Not only the music of the movie but also the actors' acting was great.
+요즘 극장에서 무슨 영화가 인기가 많은지 알아요?,Do you know what kind of movies are popular in theaters these days?,Do you know what kind of movies are popular in theaters these days?
+그냥 이번 주말에는 집에서 영화나 보자.,Let's just watch movies at home this weekend.,Let's just watch movies at home this weekend.
+저는 볼링을 어떻게 치는지 몰라요.,I don’t know how to play bowling.,I don’t know how to play bowling.
+노래방에 가지 않을래요?,Why don't we go to a karaoke place?,Why don't we go to a karaoke place?
+그림을 그리고 있었어요.,I was drawing a picture.,I was drawing a picture.
+저기는 많이 뜨겁니?,Is it very hot over there?,Is it very hot over there?
+뭐 먹으면서 볼까?,How about eating something while we watch the game?,Shall we eat something while we watch the game?
+시간을 내기가 쉽지 않네.,Finding time is not easy.,It's not easy to find time.
+혹시 서연 씨에게 관심 있는 거 아니에요?,"By any chance, isn't it true that you are interested in Ms. Seoyon?","By any chance, isn't it true that you are interested in Ms. Seoyon?"
+오랜만에 만나도 어색하지 않은 것 같아요.,I don't feel awkward though it’s been a while since I met them last time.,I don't feel awkward though it’s been a while since I met them last time.
+인터넷으로 회비를 내고 가입하면 돼요.,It's OK for you to pay the membership fee online and join it.,It's OK for you to pay the membership fee online and join it.
+네가 고향으로 돌아가게 돼서 너무 섭섭하다.,I feel so sorry that you have decided to go back to your hometown.,I feel so sorry that you have decided to go back to your hometown.
+신입생이 몇 명이나 왔어요?,How many freshmen came?,How many freshmen came?
+같이 한국말을 연습하기도 하고 등산을 가기도 해요.,Together we practice Korean language and we also go hiking.,Together we practice Korean language and we also go hiking.
+운전면허 시험에 붙어서 좋겠네요.,You must feel good that you passed the driver's license test.,You must feel good that you passed the driver's license test.
+새 차 말고 중고차를 사는 게 어때?,Why don’t you buy a used car instead of a new one?,Why don’t you buy a used car instead of a new one?
+병원에 가지 않아도 돼요.,I don’t' have to go to the hospital.,I don't have to go to the hospital.
+저기밖에 없는 것 같아요.,It seems that is the only space available.,It seems that is the only space available.
+타이어가 펑크 난 것 같은데 어떻게 해야 할지 모르겠어요.,"It seem that I have a flat tire, but I don’t know what to do.","It seems that I have a flat tire, but I don't know what to do."
+어제 하루 종일 아무 일도 못 했어요.,I couldn't do anything all day yesterday.,I couldn't do anything all day yesterday.
+축하 잔치를 하거나 여행을 보내 드려요.,We throw a congratulatory party or send them on a trip.,We throw a congratulatory party or send them on a trip.
+그 사람이 아니라 얼마 전에 소개팅을 해서 만난 사람이야.,He is not the guy but one that I met recently on a blind date.,He is not the guy but one that I met recently on a blind date.
+아기가 정말 인형처럼 예쁘네요.,The baby looks really pretty like a doll.,The baby looks really pretty like a doll.
+그 상금을 가지고 여행 갈 거야.,I will go traveling with the prize money.,I will go traveling with the prize money.
+난 이번 주에는 아무 때나 괜찮아.,Any time this week is fine with me.,Any time this week is fine with me.
+아무리 능력이 있어도 인간관계가 좋지 않으면 안 돼요.,"No matter how capable you are, it is absolutely necessary to have a good relationship with others.","No matter how capable you are, it is absolutely necessary to have a good relationship with others."
+발표를 해야 하는데 어떻게 하지요?,What should I do as I have to make a presentation?,What should I do as I have to make a presentation?
+누구든지 그런 실수를 할 수 있어요.,Anybody can make such mistake.,Anybody can make such mistake.
+내가 버스를 잘못 타 가지고 다른 곳으로 갔어.,"I took a wrong bus, so I went somewhere else.","I took a wrong bus, so I went somewhere else."
+우리가 다른 것을 준비하는 동안 가지고 오면 될 것 같아.,You can bring it while we are preparing other things.,You can bring it while we are preparing other things.
+지금이라도 선물하지 그래요?,Why don’t you give her a present even now?,Why don’t you give her a present even now?
+요리에 당근을 볶아 가지고 넣어야 되는데 그냥 넣었어.,"I should have stir-fried carrots before I put them in the dish, but I put them without stir-frying them.","I should have stir-fried carrots before I put them in the dish, but I put them without stir-frying them."
+물건을 경비실에다가 맡겨 주세요.,Please leave the package at the janitor's office.,Please leave the package at the janitor's office.
+다른 색으로 바꿀 수 있을까요?,Can I exchange it for a different color?,Can I exchange it for a different color?
+백화점에 비해서 인터넷 쇼핑몰이 값이 싸.,Internet shopping malls are cheaper compared to the department stores.,Internet shopping malls are cheaper compared to the department stores.
+이 쇼핑몰 사이트에 몇 달 만에 들어가서 기억이 안 나.,"It's been several months since I visited this shopping mall site last time, so I can't remember them.","It's been several months since I visited this shopping mall site last time, so I can't remember them."
+이것은 세일 상품이라서 환불이 안 됩니다.,"This is an on-sale item, so you can’t get a refund.","This is an on-sale item, so you can’t get a refund."
+집까지 배달해 주니까 얼마나 편한지 몰라요.,How convenient it is as they deliver things to your home.,How convenient it is as they deliver things to your home.
+수선을 맡겨야겠어요.,I should have them repaired.,I should have them repaired.
+제품 전원을 한번 껐다가 켜 보시겠어요?,Why don’t you turn off the power of the product and turn it on again?,Why don’t you turn off the power of the product and turn it on again?
+소리가 잘 안 들리는 데다가 갑자기 전화가 끊어져요.,The sound is not heard very well and additionally the phone is suddenly cut off.,The sound is not heard very well and additionally the phone is suddenly cut off.
+접수 시간이 늦어서 오늘 고칠 수 있을지 모르겠습니다.,I don’t know whether it can be fixed today because the reception time is late.,I don’t know whether it can be fixed today because the reception time is late.
+수리가 끝나는 대로 연락드리겠습니다.,I will contact you as soon as the repair is done.,I will contact you as soon as the repair is done.
+주머니에서 핸드폰을 꺼내다가 떨어뜨려서 액정이 깨졌어요.,"I dropped my cellphone while I was taking it out from my pocket, so the LCD panel is broken.","I dropped my cellphone while I was taking it out from my pocket, so the LCD panel is broken."
+잘 몰라도 알고 있는 척해.,Just pretend you know it even though you don't know it very well.,Just pretend you know it even though you don't know it very well.
+지원한 회사와 하는 일에 대해서 잘 알고 있는 게 중요해.,It is important to know about the company you are applying for and the work you are going to do.,It is important to know about the company you are applying for and the work you are going to do.
+회사의 발전을 위해서 열심히 노력하겠습니다.,I will work hard for the advancement of the company.,I will work hard for the advancement of the company.
+다양한 경험을 쌓기 위해서 아르바이트를 여러 가지 했습니다.,I did various kinds of part-time jobs to accumulate diverse experiences.,I did various kinds of part-time jobs to accumulate diverse experiences.
+외국어를 잘해야 경쟁력이 있을 것 같았습니다.,I thought a good command of foreign languages is required for improving my competitiveness. ,I thought a good command of foreign languages is required for improving my competitiveness.
+같은 일을 한 경험은 없습니다만 비슷한 일을 한 적이 있습니다.,"I don't have prior experience of doing the same work, but I have done similar works before.","I don't have prior experience of doing the same work, but I have done similar works before."
+해외여행을 가는 분들이 많아서 그런지 요즘 환전하는 분들이 많으세요.,There are many people who exchange money these days maybe because many people go travelling abroad.,There are many people who exchange money these days maybe because many people go travelling abroad.
+계좌를 만들려면 뭐가 필요합니까?,What do I need to open an account?,What do I need to open an account?
+한국 역사에 대한 책은 어디에 있습니까?,Where are books on the Korean history?,Where are books on the Korean history?
+대출을 하기 위해서는 먼저 회원 가입을 하셔야 합니다.,You have to first register as a member to borrow books.,You have to first register as a member to borrow books.
+한 달이나 걸려요?,Does it take a month (that long)?,Does it take a month (that long)?
+내일 도착하나요?,Will it arrive tomorrow?,Will it arrive tomorrow?
+국내 여행이라도 가.,Go on a domestic trip at least.,Go on a domestic trip at least.
+집에서 쉬는 것만큼 편한 것은 없지요.,Nothing is more comfortable than to rest at home.,Nothing is more comfortable than to rest at home.
+저는 부장님이 내일 휴가 가시는 줄 알았어요.,I (mistakenly) thought you (General Manager) would leave for a holiday tomorrow.,I thought you manager would leave for a holiday tomorrow.
+방학하자마자 회사에서 인턴을 할 거야.,I will work as an intern at a company as soon as the vacation starts.,I will work as an intern at a company as soon as the vacation starts.
+김 교수님 수업은 인기가 많아서 빨리 마감될걸요.,Professor Kim's class is so popular that it would be closed quickly.,Professor Kim's class is so popular that it would be closed quickly.
+나는 아르바이트를 할지 봉사 활동을 할지 고민 중이야.,I haven't decided whether I do a part-time job or do some volunteer activities.,I haven't decided whether I do a part-time job or do some volunteer activities.
+머리카락이 좀 상할지도 몰라요.,You hair might be damaged a little bit.,You hair might be damaged a little bit.
+훨씬 젊어 보여요.,You look much younger.,You look much younger.
+제가 오늘은 좀 바쁘거든요.,(You might no know) But I am a little bit busy today.,(You might no know) But I am a bit busy today.
+구둣방에서 가방도 고치나 봐요.,"At your shoe repair shop, I guess you are fixing bags, too.","At your shoe repair shop, I guess you are fixing bags, too."
+이런 것들은 집에서 세탁하기 힘들잖아요.,It surely is difficult to clean these things at home.,It surely is difficult to clean these things at home.
+우리 아이가 신발을 험하게 신는 편이에요.,My kid tends to wear his/her shoes roughly.,My kid tends to wear his/her shoes roughly.
+남자 배우가 인터뷰에서 그냥 친구 사이라고 했어요.,The male actor said in an interview that they were just friends.,The male actor said in an interview that they were just friends.
+쉬운 상대가 아니라고 해요.,It is said that they are not an easy opponent.,They say they are not an easy opponent.
+제 친구들도 다 재미있다고 했어요.,All of my friends said it was fun.,All of my friends said it was fun.
+유명한 요리 학교로 1년 동안 연수를 보내 준다고 했어요.,They said they are going to send the winner to a famous culinary school for study for one year.,They said they are going to send the winner to a famous culinary school for study for one year.
+남자 주인공이 여자 주인공에게 헤어지자고 했어요.,The main male character asked the female main character to break up.,The main male character asked the female main character to break up.
+제 딸이 이제 동물원에 가지 말자고 했어요.,My daughter told me not to go to the zoo any more.,My daughter told me not to go to the zoo any more.
+김치찌개가 참 맛있었다고 했어요.,They said the Kimchi stew was really delicious.,They said the Kimchi stew was really delicious.
+마트에서 불고기 양념을 사다가 넣을래요.,I will buy seasoning for Korean grilled marinated beef at the supermarket and then put it in the dish.,I will buy seasoning for Korean grilled marinated beef at the supermarket and then put it in the dish.
+친구들이 곧 우리 집에 도착할 거라고 했어요.,My friends said they would soon arrive at my house.,My friends said they would soon arrive at my house.
+고향에서 자주 먹던 음식이 뭐예요?,What is the food that you used to eat in your hometown?,What is the food that you used to eat in your hometown?
+다른 분들도 비법이 뭐냐고 해요.,Other people also ask what is the secret. ,Other people also ask what is the secret.
+지난번에 네가 끓여 줬던 라면도 정말 맛있었어.,The ramen that you cooked last time was really delicious.,The ramen that you cooked last time was really delicious.
+"저는 한 이틀만 많이 먹어도 2, 3킬로그램(kg)이 찌던데요.",I remember I gained two or three kilograms after eating a lot for only about two days.,I remember I gained two or three kilograms after eating a lot for only about two days.
+의사 선생님이 음식을 싱겁게 먹으라고 했어요.,The doctor told me to eat less salty food.,The doctor told me to eat less salty food.
+내가 매번 이야기하는데도 룸메이트가 달라지지 않아.,My roommate doesn't change even though I talk every time.,My roommate doesn't change even though I talk every time.
+가족들이 같이 이야기할 때는 핸드폰을 보지 말라고 했어요.,I told him/her not to look at the cellphone when the family is talking together. ,I told him/her not to look at the cellphone when the family is talking together.
+제 친구들도 이제 거의 다 흰머리가 났던데요.,I found out that almost all of my friends now have gray hair.,I found out that almost all of my friends now have gray hair.
+취직하고 싶은데 취직을 못 할까 봐 걱정이야.,I want to get a job. But I am worried that I might not get a job.,I want to get a job. But I am worried that I might not get a job.
+재활용 쓰레기통이 따로 놓여 있어요.,There continue to be recyclable garbage bins separately placed.,There are recyclable garbage bins separately placed.
+조금 귀찮기는 한데 환경을 위해서 텀블러를 사용하는 게 좋을 것 같아요.,"I admit that it's a bit bothersome, but it's good to use tumblers for environment.","I admit that it's a bit bothersome, but it's good to use tumblers for environment."
+내가 자주 가는 중고품 가게를 알려 줄 테니까 너도 한번 가 봐.,"I will tell you the second-hand store that I go to often, so you should try it.","I will show you the second-hand store that I go to often, so you should try it."
+대중교통을 이용하는 사람이 많으면 많을수록 공기가 깨끗해질 거예요.,"The more people use public transportation, the cleaner the air will be.","The more people use public transportation, the cleaner the air will be."
+요즘 음식을 남기면 벌금을 내야 하는 식당이 있다면서요?,I heard that there are restaurants where you have to pay a fine for leaving food. (Is it true?),I heard that there are restaurants where you have to pay a fine for leaving food. (Is it true?)
+생활 습관을 갑자기 모두 바꾸려면 힘들 테니까 하나씩 해 보세요.,"It's difficult to change your daily habits all of a sudden, so try them one by one.","It's hard to change your daily habits all of a sudden, so try them one by one."
+자기가 준 선물을 다 달라고 했어요.,He asked me to return all the gifts that he has given to me.,He asked me to return all the gifts that he has given to me.
+여자 친구가 그냥 작은 선물을 사 달라고 했어요.,My girlfriend told me to buy just a small gift.,My girlfriend told me to buy just a small gift.
+어젯밤에 전화를 안 받던데 일찍 잤어?,You didn’t answer the phone last night. (Considering this) Did you go to bed early?,You didn't answer the phone last night. (Considering this) Did you go to bed early?
+네가 아침에 전화로 깨워 준 덕분에 늦지 않았어.,"Thanks to your wake-up call in the morning, I wasn't late.","Thanks to your wake-up call in the morning, I wasn't late."
+거긴 멀어서 가려면 오래 걸릴 텐데 그냥 이 근처에서 먹는 게 어때?,"It will take long to go there because it's far, so why don't we eat somewhere near here?","It will take long to go there because it's far, so why don't we eat somewhere near here?"
+네가 대학원을 졸업하고 나서 결혼하는 게 좋을 것 같아.,We'd better get married after you graduate from a graduate school.,We'd better get married after you graduate from a graduate school.
+10명요.,10 people.,10 people.
+모임이 취소돼서요.,The meeting is cancelled.,The meeting is cancelled.
+손님은 언제 오신대요?,When is the guest coming?,When is the guest coming?
+저희가 급해서 그런데 제일 빨리 되는 음식이 뭐예요?,We're in a rush but what is the quickest food that can be prepared?,We're in a rush but what is the quickest food that can be prepared?
+매울 것 같아서 안 매운 걸로 먹으려고요.,"It seems like it will be spicy, but we want to eat something that isn't spicy.","It seems like it will be spicy, but we want to eat something that isn't spicy."
+맛있게 드셨다니 다행이네요.,It's a relief that you've enjoyed your meal.,It's a relief that you've enjoyed your meal.
+나도 기차표 예매하러 갔었는데 이미 매진됐던데.,I also went to book a train ticket but it was all sold out.,I also went to book a train ticket but it was all sold out.
+빈손으로 갈 수는 없으니까 준비해야지.,We can't go empty handed so we have to prepare something.,We can't go empty handed so we have to prepare something.
+재료는 여기 내가 다 준비해 놨어.,I prepared all the ingredients.,I prepared all the ingredients.
+먼 길 오느라고 힘들었을 텐데 좀 쉬어라.,It must have been tiring coming from such a long way.,It must have been tiring coming from such a long way.
+이번 시험에 꼭 합격하기 바라.,I hope you will pass this exam.,I hope you will pass this exam.
+걱정돼서 그렇게 말씀하시는 거 아닐까?,Are they speaking like that because they're worried?,Are they speaking like that because they're worried?
+"보증금에 따라 다르지만 대략 4,50만 원 정도 해요.","It depends on the deposit, but it usually costs about 400,000 won or 500,000 won.","It depends on the deposit, but it usually costs about 400,000 won or 500,000 won."
+보증금을 더 올린다고요?,You want to raise the deposit?,You want to raise the deposit?
+집이 남향이라서 그래요.,It's because the house is southbound.,It's because the house is southbound.
+방 전체를 도배하는 대신 더러운 벽만 새 벽지를 붙여 주겠다고 하는데요.,"Instead of painting the whole room, he says he will only put a new wallpaper on the dirty wall.","Instead of painting the whole room, he says he will only put a new wallpaper on the dirty wall."
+다음 주쯤 이사할 생각이에요.,I am thinking of moving next week.,I am thinking of moving next week.
+사장님이 되게 친절하더라.,The boss seemed very kind.,The boss seemed very kind.
+도자기 구경은 물론이고 도자기 만드는 체험도 할 수 있어.,You can definitely observe some ceramics as well as have experience in making ceramics.,You can definitely observe some ceramics as well as have experience in making ceramics.
+옷이 더러워질 수 있다고 하니까 갈아입을 옷이 있으면 좋아.,It will be good to bring extra clothes to wear because it might get dirty.,It will be good to bring extra clothes to wear because it might get dirty.
+하긴 회사원이 주말에도 일찍 일어나기란 쉬운 일이 아니지.,"Well sure, it's not easy for an office worker to get up early on the weekend.","Well sure, it's not easy for an office worker to get up early on the weekend."
+이 부분은 두껍게 만들어야지 그렇지 않으면 구울 때 깨질 수 있어요.,You have to make this part thicker or it will break when you bake it.,You have to make this part thicker or it will break when you bake it.
+옆에 술잔이 있는 걸 보면 술병인 거 같아.,It looks like a wine bottle because there is a wine glass next to it.,It looks like a wine bottle because there is a wine glass next to it.
+도자기를 만들어 봤단 말이야?,"So, you've made pottery?","So, you've tried making pottery?"
+전에 핸드폰 화면이 안 나올 때 어떻게 하는지 읽었던 것 같아요.,"I think, last time, I read about what to do when my phone screen does not show up.","I think, last time, I read about what to do when my phone screen does not show up."
+수리비가 너무 비싸거든 차라리 새것으로 바꾸세요.,"It's too expensive to repair. Instead, just change it for a new one.","It's too expensive to repair. Instead, just change it for a new one."
+새 모델이 기능도 다양하고 해서 바꿨어요.,I changed it because new models have many features.,I changed it because new models have many features.
+"그럼, 이 은색 핸드폰이 좋겠군요.","Then, this silver cell phone would be nice.","Then, this silver cell phone would be nice."
+이 제품은 파일을 다운로드하는 게 어렵다고 하던데 정말 그런가요?,"I've heard that this product has difficulty in downloading files, is this true?","I've heard that this product has difficulty in downloading files, is this true?"
+요즘 일하느라고 바빠서 케이스 살 생각도 못 했어요.,I have been busy working these days and did not even think about buying a case.,I have been busy working these days and did not even think about buying a case.
+힘들지. 그래도 용돈을 벌 수 있잖아.,"I am tired. But, I can still earn pocket money.","I am tired. But, I can still earn pocket money."
+편의점이나 식당 같은 데서 하지.,Do a part-time job at a convenience store or restaurant.,Do a part-time job at a convenience store or restaurant.
+공강 시간을 활용해서 일을 하는 거라서 수업을 들으면서 할 만해.,It seems like a job to do to use the free time to work and still be able to take classes.,It seems like a job to do to use the free time to work and still be able to take classes.
+중국에서 왔어요.,I'm from China.,I'm from China.
+이렇게 갑작스럽게 스케줄을 변경하시면 좀 곤란한데요.,It's a little troubling to have to change the schedule so suddenly.,It's a little troubling to have to change the schedule so suddenly.
+나 대신에 아르바이트 좀 해 줘.,Do my part-time job instead of me.,Do my part-time job instead of me.
+나랑 결혼해 줄래?,Will you marry me?,Will you marry me?
+김우빈이라고 합니다.,I am Kim Woobin.,I am Kim Woobin.
+계약금 천만 원을 입금하래.,"You need to deposit 10,000,000 won for the down payment.","You need to deposit 10,000,000 won for the down payment."
+결혼 준비는 잘돼 가?,Is the wedding planning going well?,Is the wedding planning going well?
+네가 안 와서 안 그래도 연락하려던 참이었어.,I was just about to contact you because you didn't come.,I was just about to contact you because you didn't come.
+네 축가 덕분에 결혼식 분위기가 좋았어.,"Because of your special nuptial song, the wedding atmosphere was good.","Because of your special nuptial song, the wedding atmosphere was good."
+버스를 놓쳐 버렸어.,I missed the bus.,I missed the bus.
+저 파란 선을 보고 따라가시면 찾기 쉬워요.,"If you follow that blue line, it will be easy to find.","If you follow that blue line, it will be easy to find."
+다음 역에서 일반열차를 타고 다시 돌아오셔야겠네요.,"At the next station, you should take the regular train to come back.","At the next station, you should take the regular train to come back."
+난 너무 피곤했단 말이야.,"I'm telling you, I was so tired.","I'm telling you, I was so tired."
+내릴 때 조심하라는 말도 해 주잖아. 얼마나 친절한데.,"When you get off, they tell you to be careful. How kind of them.","When you get off, they tell you to be careful. How kind of them."
+재미있긴 뭐가 재미있어? 지하철 붐빌 땐 얼마나 불편한데.,What's so fun about it? It's so inconvenient when the subway is crowded.,What's so fun about it? It's so inconvenient when the subway is crowded.
+저는 오전에 검진을 받았으면 해요.,I wish to have a check up in the morning.,I wish to have a check up in the morning.
+여기서는 수면 내시경 검사를 한다고 해서 그걸로 하려고요.,"They said they do a sleep endoscopy here, so I am here for that.","They said they do a sleep endoscopy here, so I am here for that."
+검사가 잘 되게 장을 모두 비우는 약이에요.,It is a medication that empties the bowels so that the examination goes well.,It is a medication that empties the bowels so that the examination goes well.
+지금 사람이 많으니까 채혈을 먼저 하고서 가시는 게 좋아요.,"Since there are a lot of people, it is good to draw the blood first.","Since there are a lot of people, it is good to draw the blood first."
+치료를 받는 건 아니고 위장약을 가끔 먹고 있어요.,I'm not receiving any treatment but I am taking medication for stomach from time to time.,I'm not receiving any treatment but I am taking medication for stomach from time to time.
+어떤 음료도 물만 못하군요.,Any drink is not better than water.,Any drink is not better than water.
+그럴 기회가 있었으면 좋겠어요.,I wish I had a chance to do so.,I wish I had a chance to do so.
+신청서에 이름과 질문하고 싶은 내용을 쓰도록 하세요.,"On the application, please write your name and any questions that you have.","On the application, please write your name and any questions that you have."
+면담 시간이 많았다면 질문을 많이 했을 거예요.,"If we had more face-to-face talk time, I would have asked a lot more questions.","If we had more face-to-face talk time, I would have asked a lot more questions."
+있고말고요. 행정학을 전공한 피디도 있어요.,Of course. There is also a PD (Producer and Director) who majors in public administration.,Of course. There is also a PD (Producer and Director) who majors in public administration.
+기자라든가 아나운서 같은 언론인이 될 수 있어요.,Either a journalist who is like a reporter or an announcer.,Either a journalist who is like a reporter or an announcer.
+신문방송학으로 결정을 하기는 했지만 아직도 확신이 없어요.,I chose to study communictions but I'm still not sure about my decision.,I chose to study communictions but I'm still not sure about my decision.
+여기 디자인이 여러가지가 있는데 어떤 카드로 하시겠습니까? 요즘은 이렇게 캐릭터 카드로 많이들 한답니다.,"There are several designs, which card do you want? These days many people use card like this that have a character design.","There are several designs, which card do you want? These days many people use card like this that have a character design."
+제가 신용카드를 드린다는 것이 그만 회원카드를 드렸네요.,"Oops, I gave you my membership card accidentally instead of my credit card.",It seems that I gave you my expiry membership card because I give you my credit card.
+지난주에 이 블라우스를 샀는데 환불을 받을 수 있을까요? 집에서 입어 보기만 했어요.,"Last week, I bought this blouse. Is it possible to receive a refund? I just tried it on at home.","Last week, I bought this blouse. Is it possible to receive a refund? I just tried it on at home."
+조건이 까다롭기는 하지만 한국에서 직장에 다니고 계신다면 가능합니다.,"Even though the conditions are very particular, it is possible if you are employed in Korea.","Even though the conditions are very particular, it is possible if you are employed in Korea."
+어떡하긴. 카드 회사에 전화해서 분실 신고부터 해야지.,What do you mean what should you do? You should call the card company and report it lost.,What do you mean what should you do? You should call the card company and report it lost.
+오늘은 제가 집에 못 들어갈 수도 있어요.,I may not be able to go home today.,I may not be able to go home today.
+아무리 이런 옷이 유행한다고 해도 어울리는 걸 입어야지.,"No matter how fashionable these clothes are, you should wear what is suitable to you.","No matter how fashionable these clothes are, you should wear what is suitable to you."
+그럼 자주 쓰는 향수를 선물하기보다는 색다른 향이 나는 이 향수를 선물해 보세요.,"Then, instead of trying to gift a perfume that is often used, try to gift a perfume that has an unusual scent.","Then, instead of trying to gift a perfume that is often used, try to gift a perfume that has an unusual scent."
+평범하다니요? 밝게 염색하면 개성 있어 보일 거예요.,"Ordinary? If you dye it brighter, it will bring out your individuality.","Ordinary? If you dye it brighter, it will bring out your individuality."
+마스크팩했더니 피부가 좀 진정된 것 같아. 네 말을 듣길 잘했다.,"After using the mask pack, it seems to have made my skin calm. It was good to listen to you.","After using the mask pack, it seems to have made my skin calm. It was good to listen to you."
+그럼 나도 조문하러 장례식장에 가야지.,"Then, I'll go to the funeral hall to show my condolences.","Then, I'll go to the funeral hall to show my condolences."
+면접 볼 때 귀걸이하지 말라는 법은 없잖아.,There is no rule that you cannot wear earrings during an interview.,There is no rule that you cannot wear earrings during an interview.
+남은 건 비즈니스석뿐이에요.,The only thing left is business class.,The only thing left is business class.
+지난주에 비행기표를 예약했는데 날짜를 좀 변경할 수 있나 해서 전화했어요.,I reserved an airline ticket last week and am calling to see if I could change the dates.,I reserved an airline ticket last week and am calling to see if I could change the dates.
+좀 일찍 오셨으면 가능했을 텐데 지금은 뒤쪽 자리밖에 없습니다.,"It would have been possible if you came a little earlier, but there is only seats in the back.","It would have been possible if you came a little earlier, but there is only seats in the back."
+우리가 진짜 한국에 오다니 믿을 수가 없어.,I cannot believe that we are really in Korea.,I cannot believe that we are really in Korea.
+크기는 손바닥만 하고 가볍습니다.,It is the size of a palm of a hand and light.,It is the size of a palm of a hand and light.
+공항버스나 지하철로 가실 수 있는데 무엇을 이용하실 건가요?,"You can go by the airport bus or the subway, what will you use?&nbsp;","You can go by the airport bus or the subway, what will you use?&nbsp;"
+오늘 아침에 산부인과에 다녀왔는데 임신 3개월이래요.,I went to my gynecologist this morning and was told I'm 3 months pregnant.,I went to my gynecologist this morning and was told I'm 3 months pregnant.
+영양제도 영양제지만 밥을 먹어야 기운이 날 텐데요.,"Nutritional supplements are important, but you need to eat food in order to recover one's strength.","Nutritional supplements are important, but you need to eat food in order to recover one's strength."
+초음파 사진으로 봐서는 손가락도 길고 예쁠 것 같아요.,"Looking at the ultrasonic photos, the fingers seem like they will be long and pretty.","Looking at the ultrasonic photos, the fingers seem like they will be long and pretty."
+지난달에 비하면 몸이 많이 무거워졌어요.,"If I compare to last month, my body feels heavier.","If I compare to last month, my body feels heavier."
+산후조리 중에는 다른 때와 달리 몸을 따뜻하게 해야 몸이 상하지 않는대.,During pospartum care it is unlike other times because you need to keep your body warm for it not to be bad for your body.,During pospartum care it is unlike other times because you need to keep your body warm so that your body doesn't get hurt.
+산모들은 출산 후 호르몬의 영향으로 인해 그런 기분을 느끼는 경우가 많습니다.,"After mothers give birth, because of the hormone influence they have many moments when they feel emotional.","After mothers give birth, because of the hormone influence they have many moments when they feel emotional."
+긴급 차량이 가도록 만든 갓길이에요.,The shoulder (of the road) is for emergency vehicles.,The shoulder (of the road) is for emergency vehicles.
+가다가 보면 졸음쉼터가 나올 거예요. 거기에서 좀 쉬어요.,"If you look on the way, there will be a rest area that comes along. Rest there for a bit.","If you look on the way, there will be a rest area that comes along. Rest there for a bit."
+하이패스 단말기를 단 차들이에요. 제 차에도 달았더니 후불로 결제해서 편하더라고요.,Those are cars that have a Hi-Pass card reader installed. I have it installed in my card so I pay in installments and it's very convenient.,Those are cars that have a Hi-Pass card reader installed. I have it installed in my card so I pay in installments and it's very convenient.
+그런 일이 있으셨어요? 제가 미리 말씀 드릴 걸 그랬네요.,Something like that happened? I should have told you in advance.,Something like that happened? I should have told you in advance.
+이렇게 도로가 넓은데 제한 속도가 90킬로미터라니요? 너무 낮은 거 아니에요?,The road is so wide but the speed limit is 90 kilometers? Is it not too low?,The road is so wide but the speed limit is 90 kilometers? Is it not too low?
+휴게소에 가는 김에 주유도 좀 해야겠어요.,"Since we are going to the rest area, I will do some refueling also.","Since we are going to the rest area, I will do some refueling also."
+교수님께서 학생들에게 보강이 가능한 날짜를 채팅방에 올려 달라셨어.,The professor asked the students to post a possible date for a makeup lesson (class) in the chatroom.,The professor asked the students to post a possible date for a makeup lesson (class) in the chatroom.
+이번에는 교수님들도 참석하시는 것 같던데 웬만하면 같이 가자.,"This time, it seems like the professor will attend as well, if you can, let's go together.","This time, it seems like the professor will attend as well, if you can, let's go together."
+복학생인데 신입생이 된 듯한 기분이야.,I'm a student returning to school after taking time off but I feel like I am a freshman.,I'm a student returning to school after taking time off but I feel like I am a freshman.
+점퍼에 들어갈 문구는 정해졌습니까?,Did we decide what phrase will go on the jumper?,Did we decide what phrase will go on the jumper?
+저는 보고서도 열심히 썼고 시험도 꽤 잘 봤다고 생각합니다.,I think I diligently wrote my reports and did quite well on my tests.,I think I diligently wrote my reports and did quite well on my tests.
+취업도 못 했는데 졸업부터 하기가 좀 그래.,"I did not even get a job, but, feel reluctant to graduate first.","I did not even get a job, but, feel reluctant to graduate first."
+전 우리 아이를 마당에서 뛰어놀게 하고 싶어요.,I want to let my child play around in the yard.,I want to let my child play around in the yard.
+조용히 해 달라는 말은 해 봤어요?,Have you tried telling them to be quiet?,Have you tried telling them to be quiet?
+요즘 이런 문제를 중재해 주는 기관이 있다던데 한번 알아보세요.,"These days, I heard there are agencies that arbitrate these sort of issues, try to find out.","These days, I heard there are agencies that arbitrate these sort of issues, try to find out."
+당신이 말해주지 않았으면 내일 밥도 못 할 뻔했네요.,"If you had not told me, I would not have been able to cook tomorrow.","If you had not told me, I would not have been able to cook tomorrow."
+아주머니가 처음엔 놀라시더니 나중엔 좋아하셨어요.,At first the auntie was surprised then liked it later.,At first the auntie was surprised then liked it later.
+이 아파트는 단속을 철저히 하는 모양이네요.,This apartment seems to be thoroughly cracking down.,This apartment seems to be thoroughly cracking down.
+난 집에서 공부하든지 커피숍에 가든지 해야겠다.,I am going to study at home or go to a coffee shop.,I am going to study at home or go to a coffee shop.
+앞으로는 일주일에 한 번만 먹을까 봐.,I will only eat it once a week from now on.,I will only eat it once a week from now on.
+평소에는 안 그러다가도 발표할 때는 왜 그런 행동을 하는지 모르겠어요.,I usually do not do it but I don't know why I act like that when I present.,I usually do not do it but I don't know why I act like that when I present.
+엄마한테 혼난 적도 많지만 어디 쉽게 고칠 수가 있어야지.,There are many times I got scolded by my mom but it's not easily fixed.,There are many times I got scolded by my mom but it's not easily fixed.
+의사 선생님의 조언을 듣고도 말을 듣지 않으니 아파도 할 말이 없겠다.,"After hearing to the doctor's advice and not listening to it, there is nothing to say even if it hurts.","After hearing to the doctor's advice and not listening to it, there is nothing to say even if it hurts."
+아침에 일어나기 힘들면 아예 밤을 새운다거나 알람을 여러 개 맞춘다거나 해 봐.,"If it is hard to get up in the morning, try to stay up all night from the start or try to set several alarms.","If it is hard to get up in the morning, try to stay up all night from the start or try to set several alarms."
+아내도 직장 생활을 하는 만큼 내가 육아를 도울 수 있다면 적극 도와야지.,"As much as my wife has a job life, I should do as much infant care to actively help.","As much as my wife has a job life, I should do as much infant care to actively help."
+부모님 중에 한 분이라도 한국 국적이 아니신 경우에는 주민 센터에 방문하셔야 합니다.,"Among parents if one of two couples is not Korean citizen, then you should go to Citizen Center.","Among parents if one of two couples is not Korean citizen, then you should go to Citizen Center."
+엄마들 말에 따르면 거기 선생님들이 아이들을 정말 잘 돌봐준대요.,"According to the mothers, the teachers there take good care of the children.","According to the mothers, the teachers there take good care of the children."
+우리 아이는 남자아이치고는 조용한 편이에요.,My child is quiet for a boy.,My child is quiet for a boy.
+그렇게 아이 말을 다 들어주다가는 아이 버릇만 나빠져요.,"If you just keep listening to the child, the child's habits will become worse.","If you just keep listening to the child, the child's habits will become worse."
+주위에 영어를 배우는 아이들이 많다니까 자꾸 조바심이 생겨요.,I am getting anxious because all the children surrounding me are learning English.,I am getting anxious because all the children surrounding me are learning English.
+긴장을 너무 하는 바람에 사원증을 놓고 와서 집에 다시 갔다가 왔어요.,"Because I was so nervous, I left my employee card and had to go home again to get it.","Because I was so nervous, I left my employee card and had to go home again to get it."
+이렇게 만들어서야 어디 사업 계획서가 통과될 수 있겠어요?,"If we make it like this, how can our business plan be passed?","If we make it like this, how can our business plan be passed?"
+시간이 해결해 주는 법이에요. 걱정하지 마세요.,Time is the way to solve it. Do not worry.,Time is the way to solve it. Do not worry.
+회사 생활을 하다가 보면 이런 일이 있게 마련이에요. 저도 중요한 약속을 취소했어요.,This is what happens while you live the company lifestyle. I also cancelled an important appointment.,This is what happens while you live the company lifestyle. I also cancelled an important appointment.
+일을 빨리 배울 수 있다기에 영업부에 지원을 했는데 좀 후회가 돼요.,"I was able to learn things quickly, so I was placed into the sales department but I am beginning to regret it a little.","I was able to learn things quickly, so I was placed into the sales department but I am beginning to regret it a little."
+이 대리님은 업무 능력이 뛰어나신지 해외 출장을 자주 가시는 것 같아요.,Assistant manager Lee must be skilled in business because he often goes abroad for business trips.,This assistant manager is skilled in business because he often goes abroad for business trips.
+지난주 수요일에 업무차 거래처에 가는 길에 잃어버린 것 같아요.,I think I lost it on my way to visit my client for business last Wednesday.,I think I lost it on my way to visit my client for business last Wednesday.
+휴가를 갔다가 와 보니까 집이 엉망이 되어 있네요.,I came back from my vacation and my house is in a mess.,I came back from my vacation and my house is in a mess.
+그때는 신경 쓸 일이 많았던 탓에 신고하는 것을 잊어버렸어요.,I forgot to report it because I had a lot of things to worry about at that time.,I forgot to report it because I had a lot of things to worry about at that time.
+당신이 현재 미혼임을 증명해 주는 서류래요.,It's a document that proves you're not married at the moment.,It's one that proves you're not married at the moment.
+제가 지금부터 말씀드리는 대로 따라 해 주세요.,Then please follow as I say.,Then please follow as I say.
+역무실로 올 게 아니라 분실물 센터로 가야 했군요.,"Oh, I had to go to the Lost and Found Center, not coming here to the station office.","Oh, I had to go to the Lost and Found Center, not coming here to the station office."
+나한테 얘기하지 그랬어? 미리 얘기했으면 내가 알려줬을 텐데.,"Why didn't you tell me? If you'd told be beforehand, I'd have taught you. ","Why didn't you tell me? If you'd told beforehand, I'd have taught you."
+운동도 할 겸 친목도 다질 겸 조기 축구회에 나가고 있어.,I go to a morning soccer club to excersize and to build a friendship.,I go to a morning soccer club to excersize and to build a friendship.
+안 그러면 넘어져서 크게 다치는 수가 있어요.,"If you don't, you might fall down and get hurt badly. ","If you don't, you might fall down and get hurt badly."
+아버지를 따라서 낚시를 다니다가 보니까 흥미가 생겨서 낚시를 좋아하게 됐습니다.,I became fond of fishing after I went fishing with my father for several times.,I became fond of fishing after I went fishing with my father for several times.
+한 달에 두 번 정도 가니까 자주 가는 셈이지.,"I go twice a month, so it's quite often.","I go twice a month, so it's quite often."
+이번 국제대회에서도 한국 선수들이 상을 휩쓸다시피 했잖아.,Korean players almost swept the prize in this international competition.,Korean players almost swept the prize in this international competition.
+선생님이 집으로 방문하는 한국어 교육 프로그램이 있다지요?,I heard there is a Korean language education program where the teacher visits my home.,I heard there is a Korean language education program where the teacher visits my home.
+우리 딸이 지난달에 다문화가족지원센터에서 주최한 캠프에 다녀오더니 훨씬 명랑해졌어요.,"My daughter went to a camp hosted by the multicultural family support center last month, and she got a lot more cheerful.","My daughter went to a camp hosted by the multicultural family support center last month, and she got a lot more cheerful."
+"초등학생 때는 자주 1,2등도 하곤 했는데 중학생이 되면서 성적이 많이 떨어졌어요.","When she was an elementary school student, she used to rank the first and second, but her grades dropped a lot as she became a middle school student.","When she was an elementary school student, she used to rank the first and second, but her grades dropped a lot as she became a middle school student."
+한번 전화해 보시지요.,Try giving them a call.,Try giving them a call.
+제대로 통역하기에는 실력이 아직 부족하지만 그래도 한번 도전해 보려고요.,"I'm not yet competent enough to make a good interpretation, but I'm going to try.","I'm not yet competent enough to make a good interpretation, but I'm going to try."
+한국어를 체계적으로 배울 수 있을 뿐만 아니라 한국 사회와 문화도 다뤄서 좋았어요.,It was good not only because I could learn Korean systematically but also it dealt with Korean society and culture.,It was good not only because I could learn Korean systematically but also it dealt with Korean society and culture.
+검사 결과 맹장염이라면 수술하셔야 합니다.,"If the test results confirm that it's appendicitis, you need to get an operation.","If the test results confirm that it's appendicitis, you need to get an operation."
+"여기 표에서 보시는 것처럼 1, 2인실은 좀 비싼 편입니다.","As you can see here, a single room and a double room are a little expensive.","As you can see here, a single room and a double room are a little expensive."
+물을 비롯한 모든 음식물은 섭취하시면 안 됩니다.,You should not eat any food including water.,You should not eat any food including water.
+지금 당장 시원한 물 한 잔 마시면 소원이 없겠어요.,I would have no other wish if I can drink a cup of cool water right now.,I would have no other wish if I can drink a cup of cool water right now.
+통증이 심할 때 드시라고 진통제도 함께 처방해 드립니다.,I'll also prescribe painkillers to take in case of severe pain.,I'll also prescribe painkillers to take in case of severe pain.
+보험회사에 제출할 서류들은 미리 신청해야 한다고 해서 어제 담당 간호사에게 말해 두었습니다.,"I was told that I must apply in advance for documents to be submitted to the insurance company, so I told the nurse in charge yesterday.","I was told that I must apply in advance for documents to be submitted to the insurance company, so I told the nurse in charge yesterday."
+바닷속 장면에서는 의자가 움직여서 마치 물속을 돌아다니는 것처럼 느껴졌어요.,"In the scene under the sea, I felt like I was going around in the water because the chair moved around.","In the scene under the sea, I felt like I was going around in the water because the chair moved around."
+사실 중간에 조금 틀렸어. 즉흥적으로 안 했더라면 더 잘했을 텐데.,"Actually, I made a little mistake in the middle of the song. I would have done better if I hadn't improvised. ","Actually, I made a little mistake in the middle of the song. I would have done better if I hadn't improvised."
+어찌나 생동감 있게 표현했는지 학이 하늘로 날아가는 것 같아요.,It is described so lively that I feel like the crane is flying into the sky.,It is described so lively that I feel like the crane is flying into the sky.
+오늘 발레 공연은 정말 좋았어요. 음악이며 무대며 다 만족스러워요.,"Today's ballet performance was really good. I'm satisfied with the music, the stage, and everything.","Today's ballet performance was really good. I'm satisfied with the music, the stage, and everything."
+프랑스에서 그린 초기 작품이 있는가 하면 남태평양의 작은 섬에서 그린 후기 작품도 전시되고 있대요.,I heard there are some early paintings from France while the later works painted at a small island in the South Pacific Ocean is also being displayed.,I heard there are some early paintings from France while the later works painted at a small island in the South Pacific Ocean is also being displayed.
+다른 작곡가의 음악도 들어볼 필요가 있을 것 같아요.,I think we need to listen to other composers' music as well.,I think we need to listen to other composers' music as well.
+한국의 모든 예비역이 지켜보고 있는걸.,All reserve soldiers in Korea are watching.,All reserve soldiers in Korea are watching.
+축하는 무슨.... 너는 군대에 안 가도 되지?,"It's not something to celebrate…. You don't have to join the army, do you?","It's not something to celebrate.... You don't have to join the army, do you?"
+넌 외국인이니까 부대에 사전 허락을 받아야 할 것 같아.,I suppose you should get prior permission from the troops since you're a foreigner.,I suppose you should get prior permission from the troops since you're a foreigner.
+군인이자 학생이지. 수업도 듣고 군사 훈련도 받아.,They are soldiers and students. They take lessons and also military training.,They are soldiers and students. They take lessons and also military training.
+한국에서는 제대하고 난 뒤에도 예비군으로 훈련을 받아요.,We are trained as reserve soldiers even after being discharged from the military in Korea.,We are trained as reserve soldiers even after being discharged from the military in Korea.
+보통 장교로 근무를 하니까 직업 군인이 아닌 이상 보기가 힘들어.,"Since they usually work as an officer, it's hard to see them unless you are a professional soldier.","Since they usually work as an officer, it's hard to see them unless you are a professional soldier."
+좋은 아이디어가 있으면 지위 고하를 막론하고 발언하세요.,Please speak up if you have good idea regardless of your position.,Please speak up if you have good idea regardless of your position.
+오늘 안으로 완성해야 하는 사업계획서가 있어서 야근을 할 수밖에 없습니다.,I have to stay late because I have a business plan due today.,I have to stay late because I have a business plan due today.
+이런 좋은 기회가 다시 올 거라는 보장은 없잖아.,There's no guarantee that such great opportunity will come again.,There's no guarantee that such great opportunity will come again.
+요새 인사이동 때문에 인수인계하느라고 신경을 많이 쓰긴 썼나 보네.,"Since personnel transfer is on going, I guess you've been stressed doing hand over.","Since personnel transfer is on going, I guess you've been stressed doing hand over."
+회식이 회사원들에게 가장 큰 스트레스를 준다고 해도 과언이 아니겠군요.,It's no exaggeration to say that group dining gives a lot of stress to the office workers.,It's no exaggeration to say that group dining gives a lot of stress to the office workers.
+윗사람들이 정장을 갖춰 입는 까닭에 눈치가 보인다는 응답이 가장 많았습니다.,Most of the respondents replied that they are a little worried because their superiors are dressed up in formal attire.,Most of the respondents replied that they are a little worried because their superiors are dressed up in formal attire.
+그렇게 봐주다 보면 결국 원칙이 무너지고 말 거야.,The principle won't be upheld If they let it go like that.,The principle won't be upheld if they let it go like that.
+통계 자료에 의하면 종량제 덕분에 쓰레기 배출량이 많이 줄었대.,Statistics show that there's a huge drop in trash emissions thanks to the meter-rate system.,Statistics show that there's a huge drop in trash emissions thanks to the meter-rate system.
+사람들의 의식이 개선되지 않는다면 쓰레기통을 늘리나 마나일 거예요.,"Without improvement in people's consciousness, increasing them would be of no use.","Without improvement in people's consciousness, increasing them would be of no use."
+한국은 분리수거하는 게 여간 복잡한 게 아니에요.,Recycling is really complicated in Korea.,Recycling is really complicated in Korea.
+외국에서는 비닐봉지를 사용하면 환경 부담금을 내게 하거나 아예 사용을 금지하기도 한다더라.,I heard that they can charge you environmental burdens or ban you from using plastic bags at all in foreign countries.,I heard that they can charge you environmental burdens or ban you from using plastic bags at all in foreign countries.
+스티커를 붙여야 하는 걸 알면서도 수수료가 아까워서 몰래 버리는 사람들이 가끔 있어요.,"Even though they know they have to paste the sticker, sometimes people throw them away in secret because they don't want to pay the commission.","Even though they know they have to paste the sticker, sometimes people throw them away in secret because they don't want to pay the commission."
+건강을 위해 이 맛있는 것들을 줄여야 한다니까 생각만 해도 우울해.,I feel depressed just thinking about having to cut down on these delicious food for my health.,I feel depressed just thinking about having to cut down on these delicious food for my health.
+난 길거리 음식들은 불안해서 먹을래야 먹을 수가 없어.,I get too anxious to eat street food.,I get too anxious to eat street food.
+전 좀 짭짤하게 먹는 편인데 그게 건강에 안 좋은 식습관 중 하나더라고요.,"I tend to eat salty food, but it turned out to be an unhealthy eating habits.","I tend to eat salty food, but it turned out to be an unhealthy eating habits."
+채식주의자가 아니더라도 건강을 위해서 만들어 드시면 좋겠어요.,I hope you cook that for your health even if you are not a vegetarian.,I hope you cook that for your health even if you are not a vegetarian.
+난 무설탕 식품이라고 해서 당분도 안 들어갈뿐더러 몸에도 좋은 줄 알았는데.,I thought these are not only sugar free but also good for health because it is written sugar-free on it.,I thought these are not only sugar free but also good for health because it is written sugar-free on it.
+유통기한이 길다고 다 좋은 건 아니야.,Not all of them are good because they have long expiration date.,Not all of them are good because they have long expiration date.
+지난주에 재테크에 대한 강의를 한다길래 듣고 왔는데 사람들이 정말 많더라고요.,"I've been to a lecture about investment technique last week, and there were so many people.","I've been to a lecture about investment technique last week, and there were so many people."
+은행 금리도 낮거니와 부동산 가격은 너무 비싸서 주식 투자로 몰리는 것 같아요.,It seems like many people are driven to stock investment due to low bank interest rates and high real estate price.,It seems like many people are driven to stock investment due to low bank interest rates and high real estate price.
+저는 일단 사면 오르지 않는 한 웬만하면 팔지 않으려고 해요.,"Once I buy one, I don't usually sell it unless the stock rises.","Once I buy one, I don't usually sell it unless the stock rises."
+부동산은 주변 환경이 좋은 지역에서 오랫동안 살다 보면 오르기 때문에 길게 보는 안목이 필요할 듯싶어요.,I think you will have to take a long view since real estate normally increase after a long period of living in an area with good surroundings.,I think you will have to take a long view since real estate normally increase after a long period of living in an area with good surroundings.
+적은 돈을 꾸준히 예금함으로써 목돈을 마련하는 가장 좋은 방법입니다.,It's the best way to make a large sum of money by depositing small amount of money steadily.,It's the best way to make a large sum of money by depositing small amount of money steadily.
+그림은 가격이 떨어지지 않고 세금이 없다는 점에서 투자 가치가 있지.,Painting is worth investing because the price doesn't fall and there is no tax on it.,Painting is worth investing because the price doesn't fall and there is no tax on it.
+그거 인사로 한 빈말일 텐데 설마 진짜 연락을 기다리는 건 아니지요?,You shouldn't be waiting for his call since it must had been an empty greeting comment.,You shouldn't be waiting for his call since it must had been an empty greeting comment.
+이런 수평적인 호칭을 통해 서로 존중하는 분위기를 만들자는 거지.,It's about creating an atmosphere of respect for each other through these horizontal title.,It's about creating an atmosphere of respect for each other through these horizontal title.
+그 정도 가지고 싫어할 리가 있겠어요?,It's not possible that she hates you for such a small matter.,It's not possible that she hates you for such a small matter.
+한국에서는 태어나자마자 다 한 살이라던데 사실이야?,Is it ture that everyone is one years old from the time they are born in Korea?,Is it ture that everyone is one years old from the time they are born in Korea?
+한국의 서비스 문화는 아직 해외에 알려지지만 않았지 좋은 점이 많은 것 같아요.,"I think there are many good things about Korean service culture, yet they are just unknown overseas.","I think there are many good things about Korean service culture, yet they are just unknown overseas."
+한국인은 집단주의적인 경향이 있어서 단체 모임에서 혼자 빠지는 걸 꺼리는 면이 있어.,Koreans tend to be collectivistic that they are reluctant to not to go to a group gathering alone.,Koreans tend to be collectivistic that they are reluctant to not to go to a group gathering alone.
+넌 어떻게 돈만 생겼다 하면 쓰려고 해?,How could you come to spend your money everytime you just earned it?,How could you come to spend your money everytime you just earned it?
+그런 안정감은 결혼을 하지 않아도 친구나 애인을 통해서 얻을 수 있다고 봐요.,I believe I can get such stability through friends or a girlfriend without getting married.,I believe I can get such stability through friends or a girlfriend without getting married.
+자식한테 기댈 바에는 좀 어려워도 연금으로 살고 말지.,I would live on my pension rather than relying on my children.,I would live on my pension rather than relying on my children.
+아무리 돈을 많이 벌 수 있대도 일 때문에 내 생활을 포기하고 싶지는 않았어.,I didn't want to give up my life for work even if I can make a lot of money.,I didn't want to give up my life for work even if I can make a lot of money.
+그것은 1인 가구의 증가로 인한 사회 현상이라고 말하는 사람도 있어요.,Some say that it is a social phenomenon caused by the increase of single-person households.,Some say that it is a social phenomenon caused by the increase of single-person households.
+우리 남편만 해도 집안일이 여성만의 일이라고는 생각하지 않아요.,"Just to think about my husband, he doesn't think the housework is all for women.","Just to think about my husband, he doesn't think the housework is all for women."
+가정이야말로 기초적인 예절 교육이 시작되는 곳이라고 할 수 있어.,That's right. We can say that a family is where basic etiquette education begins.,That's right. We can say that a family is where basic etiquette education begins.
+마음 같아선 야단을 치고 싶은데 참아야겠죠?,"I would like to scold him, but I should suppress, right?","I would like to scold him, but I should suppress, right?"
+연구에 의하면 예체능 교육은 일찍 시작했느냐 늦게 시작했느냐에 따라 결과가 달라진다고 합니다.,"According to the study, the results of art, music and physical education depend on whether you start early or start late.","According to the study, the results of art, music and physical education depend on whether you start early or start late."
+입시의 성패는 엄마의 정보력에 달려 있다는 말도 있잖아요.,Some say that the success and failure of the college entrance exam depend on the mother's information strength.,Some say that the success and failure of the college entrance exam depend on the mother's information strength.
+혼자만 있다 보면 단체 생활하기가 어려워질 수도 있어.,"If he stays without friends, it can be hard to live in a group. He should learn how to get along with friends, too.","If he stays without friends, it can be hard to live in a group. He should learn how to get along with friends, too."
+무조건 대학에 진학하고 보는 사회 분위기 때문에 진학률이 높아졌어.,The entrance rate got higher because of the social atmosphere of going to college without being thoughtful.,The entrance rate got higher because of the social atmosphere of going to college without being thoughtful.
+아침에 택시를 타고 보니 차 번호가 4444인 거예요.,I took a taxi in the morning and found the car number was 4444.,I took a taxi in the morning and found the car number was 4444.
+말이 씨가 된다고 이럴 때일수록 말조심해야지.,"People say one should be careful about what he wishes for, you should watch out your words more carefully in such a situation.","People say one should be careful about what he wishes for, you should watch out your words more carefully then."
+이렇게 예쁜 길이 그런 장소였을 줄이야.,I didn't expect such a beautiful street to be a place like that.,I didn't expect such a beautiful street to be a place like that.
+요즘 신혼집 구하러 다니랴 예식장 알아보랴 주말마다 할 일이 산더미예요.,I've got a lot of work to do every weekend finding a newlywed house and looking for a  wedding hall.,I've got a lot of work to do every weekend finding a newlywed house and looking for a wedding hall.
+내가 밖에서 소리를 질러 댔는데 아직도 목이 아픈 것 같아.,I yelled outside and still feel like my throat hurts.,I yelled outside and still feel like my throat hurts.
+내가 찾아본 바에 의하면 한국에서는 6.25전쟁 후 전사자 이름을 빨간색으로 썼기 때문이라던데.,"According to what I have searched for, such taboo is because the names of the fallen soldiers were written in red after the Korean War in Korea.","According to what I have searched for, such taboo is because the names of the fallen soldiers were written in red after the Korean War in Korea."
+제 생각에 종이 신문은 점점 수요가 감소함에 따라 곧 사라질 것으로 보입니다.,I think paper newspapers are about to disappear as demand gradually declines.,I think paper newspapers are about to disappear as demand gradually declines.
+경쟁 자동차 간의 장단점도 병행해서 설명해 주니까 비교해 가면서 보는 재미도 있어.,They explain the pros and cons of competing cars in parallel that it's fun to watch while comparing.,They explain the pros and cons of competing cars in parallel that it's fun to watch while comparing.
+그 가수가 요즘 너무 바빠서 게시물을 못 올리겠거니 했는데 날마다 올라오네.,"I had thought he couldn't do posting since he is so busy these days, but it's coming up every day.","I thought the singer couldn't do posting since he is so busy these days, but it's coming up every day."
+친구 말로는 점심 시간에 저 식당에서 밥을 먹으려면 1시간 이상 기다려야 한대.,My friend told me that I have to wait more than an hour to eat at that restaurant during lunchtime.,My friend told me that I have to wait more than an hour to eat at that restaurant during lunchtime.
+나도 그렇게 생각해. 모든 시청자들의 관심사가 다 같을 리가 없잖아.,"I think so, too. All viewers can't have the same interests.","I think so, too. All viewers can't have the same interests."
+연예인이 외국의 여행지를 고생하면서 찾아가 본다든가 여행지에서 식당을 운영한다든가 하는 체험 프로그램이 많아졌어요.,There have been many experience programs such as celebrities suffer hardship to visit foreign tourist spots or run restaurants there.,There have been many experience programs such as celebrities suffer hardship to visit foreign tourist spots or run restaurants there.
+어젯밤에 집이 흔들린다 싶었는데 지진이 났었대요.,"I felt like my house was shaking last night, and it turned out that there was an earthquake.",I felt like my house was shaking last night and it turned out that there was an earthquake.
+화산 폭발 때문에 해저 산사태가 일어났는데 그 일로 말미암아 이번 쓰나미가 왔대요.,I heard that the volcanic eruption caused an undersea landslide and that led to the tsunami.,I heard that the volcanic eruption caused an undersea landslide and that led to the tsunami.
+지금은 소형 태풍에 불과하지만 북상하면서 초대형 태풍으로 발전할 가능성이 크대요.,"Now it's just a small typhoon, but as it moves north, it's likely to develop into a super typhoon.","Now it's just a small typhoon, but as it moves north, it's likely to develop into a super typhoon."
+살림살이를 집 안에 남겨둔 채 몸만 빠져나온 사람들이 많대요.,Many people left their households and escaped their homes.,Many people left their households and escaped their homes.
+장 보러 간다더니 장바구니가 왜 이렇게 비었어요?,Why is your shopping basket so empty? I heard you were going out for shopping.,Why is your shopping basket so empty? I heard you were going out for shopping.
+이상 기후는 비단 가뭄뿐만이 아니에요. 우리 고향에서는 한여름에 폭설이 내려서 난리가 났었어요.,The abnormal weather isn't only about drought. There was a big snow strom in the middle of summer in my hometown.,The abnormal weather isn't only about drought. There was a big snow strom in the middle of summer in my hometown.
+어떤 건물은 건물 자체의 디자인은 멋지다 싶은데도 왠지 어색하게 느껴지는 경우도 있어.,"Some bulidings may look nice in their own designs, but sometimes they look awkward.","Some bulidings may look nice in their own designs, but sometimes they look awkward."
+대칭 구조가 좌우로 힘을 잘 분산시키고 있어서 우아하면서도 견고해.,The symmetrical structure well distributes the weight to left and right that it's elegant and solid.,The symmetrical structure well distributes the weight to left and right that it's elegant and solid.
+단청을 말하지 않고서는 한국 건축물의 아름다움을 논하기 힘들어.,It's hard to discuss the beauty of Korean architecture without speaking dancheong.,It's hard to discuss the beauty of Korean architecture without speaking dancheong.
+나는 이 건물이 옛날에 연탄 공장으로 쓰였을 거라고는 생각조차 못했어.,I never thought this building would have been used as a coal briquettes factory in the old days.,I never thought this building would have been used as a coal briquettes factory in the old days.
+단단한 나무는 바람에 부러지지만 갈대는 흔들리기는 해도 부러지지는 않는 것처럼 말이야.,"Just like hardwood breaks in the wind, but reeds shake but not break.","Just like hardwood breaks in the wind, but reeds shake but not break."
+이 빌딩은 스마트 빌딩이라서 실외 온도에 따라서 자동으로 에어컨이 조절돼. 조명도 마찬가지이고.,This building is a smart building that the air conditioning is automatically controlled according to the outdoor temperature. So is the lighting.,This building is a smart building that the air conditioning is automatically controlled according to the outdoor temperature. So is the lighting.
+그 전문가가 봤기에 망정이지 하마터면 국보가 사라질 뻔했네.,"Oh dear, it's so fortunate that the expert saw it. Were it not for him, the national treasure could have disappeared.","Oh dear, it's so fortunate that the expert saw it. Were it not for him, the national treasure could have disappeared."
+그 덕분에 여름이건 겨울이건 생활하는 데 불편함이 없었대.,"Thanks to it, people didn't feel uncomfortable living no matter in summer or winter.","Thanks to it, people didn't feel uncomfortable living no matter in summer or winter."
+음식에 독이 있을 가능성이 있어서 먼저 먹어 보고 이상이 없는지 살피는 거야.,She is trying it first to see if the food is fine because it's possible that the food is poisoned.,She is trying it first to see if the food is fine because it's possible that the food is poisoned.
+시간이 오래 걸리는 한이 있더라도 완벽한 악기를 제작해야지요.,"No matter how long it takes, I should make a perfect instrument.","No matter how long it takes, I should make a perfect instrument."
+게다가 용암 동굴들도 추가로 등재될 전망이래.,I heard that it's also expected that lava caves will be added additionally.,I heard that it's also expected that lava caves will be added additionally.
+결과가 불완전할지언정 고증되지 않은 부분을 복원할 수는 없다고 생각했습니다.,I thought I shouldn't restore the unproven parts even if the results can me incomplete.,I thought I shouldn't restore the unproven parts even if the results can me incomplete.
+오류는 수정하되 속도는 느려지지 않도록 했습니다.,We did fix the error but made sure the speed doesn't slow down.,We did fix the error but made sure the speed doesn't slow down.
+그건 무슨 사안이냐에 달려 있어요.,That depends on what's the issue.,That depends on what's the issue.
+이렇게 전화로 이야기하느니 차라리 제가 직접 가서 다양한 견본을 보고 싶은데요.,"Well, I'd rather go and see a variety of samples myself rather than talk on the phone like this.","Well, I would rather go and see a variety of samples myself rather than talk on the phone like this."
+매번 저희 회사와 거래해 주시는데 저희는 감사할 따름이지요.,"You do business with us every time, we should be grateful.","You do business with us every time, we should be grateful."
+다시 배송되는 데 시간이 얼마나 걸릴까요?,How long will it take to be delivered again?,How long will it take to be delivered again?
+아무리 급하게 주문했기로서니 이렇게 제품 검수도 제대로 안 하고 보내시면 어떡해요.,"You shouldn't have sent the products without checking them properly, even if we made the order in a hurry.","You shouldn't have sent the products without checking them properly, even if we made the order in a hurry."
+곰과 호랑이가 사람이 되려고 도전했지만 결국 곰만 동굴에서 100일을 견딘 끝에 여자가 되지.,The bear and the tiger tried to become a human but only the bear endured a hundred days in the cave and became a woman.,The bear and the tiger tried to become a human but only the bear endured a hundred days in the cave and became a woman.
+경주를 소개하는 자료마다 첨성대는 늘 빠지지 않고 있더군요.,I found every piece of material that introduces Kyeongju includes Cheomseongdae.,I found every piece of material that introduces Kyeongju includes Cheomseongdae.
+큰 나라가 아니었음에도 불구하고 고려의 수도 개성은 유명한 국제도시였다고 해요.,"It is said that even though it wasn't a big country, Kaeseong, the capital of Goryeo, was a famous international city.","It is said that even though it wasn't a big country, Kaeseong, the capital of Goryeo, was a famous international city."
+세종대왕이 만들어 낸 한글은 정말 위대한 업적이라고 생각해.,I think Hangeul made by King Sejong is a great achievement.,I think Hangeul made by King Sejong is a great achievement.
+조선 시대의 복식은 신분에 의해 정해졌는데 가장 높은 신분인 양반만 저 갓을 썼어.,"The costumes of the Joseon Dynasty were determined by their status, but only the highest rank, Yangban, wore that gat.","The costumes of the Joseon Dynasty were determined by their status, but only the highest rank, Yangban, wore that gat."
+1919년에 우리가 일본으로부터 독립하고자 만세 시위 운동을 했는데 그것을 기념하는 날이지,"In 1919, we held a demonstration to gain independence from Japan and it's a day to celebrate it.","In 1919, we held a demonstration to gain independence from Japan and it's a day to celebrate it."
+생각하기 나름이지만 자기합리화라는 게 상처 받은 마음을 스스로 위로하는 방법일 수도 있거든.,"It depends on how you think, but self-rationalization might be a way to comfort your broken heart.","It depends on how you think, but self-rationalization might be a way to comfort your broken heart."
+여론조사에서 높은 지지도가 나온 걸 보면 괜찮은 사람인 게 틀림없어.,"He must be a good guy, given the high approval rating in the polls.","He must be a good guy, given the high approval rating in the polls."
+그렇기는 하지만 내 경험에 비추어 보면 똑똑한 사람들이 대부분 일도 잘했어.,"That's true, but in my experience, smart people mostly did a good job.","That's true, but in my experience, smart people mostly did a good job."
+손님이 옷을 사게끔 좋은 점을 부각시켜서 말해야 하는 거 아니야?,Shouldn't I highlight the good things to get customers to buy clothes?,Shouldn't I highlight the good things to get customers to buy clothes?
+"요즘 텔레비전, 신문, 인터넷까지 안 나오는 데가 없을 정도로 광고가 많이 나오더라.","I saw a lot of advertisements all around on TV, newspapers, and even the internet.","I saw a lot of advertisements all around on TV, newspapers, and even the internet."
+사람들 앞에서 너무 잘 보이려고 들면 그게 너를 더 긴장하게 만들 수 있어.,"If you try to look too good in public, it can make you more nervous.","If you try to look too good in public, it can make you more nervous."
+그런 이유도 있을 테지만 우리 나라의 주축 산업이 변화하고 있기 때문일 수도 있어.,"That may be a reason, but it could be because our main industry is changing.","That may be a reason, but it could be because our main industry is changing."
+연장선 상에 있다기보다는 산업이 새로운 국면에 접어든 것입니다.,"Rather than being on the extension line, the industry has entered a new phase.","Rather than being on the extension line, the industry has entered a new phase."
+그런 기술은 먼 미래에나 가능할 법한 것이라고 생각했는데 현실이 되다니 놀랍다.,"Wow! I thought such a technology would be possible in the distant future, but I'm surprised it came to a reality.","Wow! I thought such a technology would be possible in the distant future, but I'm surprised it came to a reality."
+시범 운행 결과를 보면 예상보다 도착 시간이 지연된다뿐이지 큰 사고는 없었대.,"I heard that if you look at the results of the trial run, your arrival time will be delayed more than expected, but that was all. There was no major accident.","I heard that if you look at the results of the trial run, your arrival time will be delayed more than expected, but that was all. There was no major accident."
+이제 산업이 값싼 노동력에 의존하는 시대는 지났다고도 할 수 있어.,We can say that the time the industry relies on cheap labor has been passed.,We can say that the time the industry relies on cheap labor has been passed.
+예전의 농촌에서는 농사만 지었던 반면 요즘 농촌에서는 농산물 가공 공장도 운영하고 카페형 농장을 만들어 소비자들이 찾아오게도 한답니다.,"While farming used to be the only case in rural areas, farmers operate processing plants for agricultural products and also make café-type farms for consumers to visit these days.","While farming used to be the only case in rural areas, farmers operate processing plants for agricultural products and also make café-type farms for consumers to visit these days."
+나 지금 너무 배고파서 쓰러질 지경이야.,I'm so starving that I feel like falling into a faint.,I'm so starving that I feel like falling into a faint.
+라면 끓일 때 수프부터 넣었어야 했는데 또 잊어버렸어.,I should have put in the soup base first when boiling ramen but I forgot again.,I should have put in the soup base first when boiling ramen but I forgot again.
+급하게 준비하느라고 양산은커녕 선글라스도 못 챙겼어.,I couldn't even prepare sunglasses nor a parasol because I was in a hurry.,I couldn't even prepare sunglasses nor a parasol because I was in a hurry.
+버스에서는 손잡이를 꽉 잡아야지. 넘어지기라도 하면 어떡해?,You have to hold on to the handle on a bus. What if you fall down?,You have to hold on to the handle on a bus. What if you fall down?
+정전기가 없었다면 이렇게 편리한 터치스크린을 사용할 수 없었겠지?,"Without static electricity, we couldn't have been using such a  convenient touchsceen, wouldn't we?","Without static electricity, we couldn't have been using such a convenient touchsceen, wouldn't we?"
+아무래도 가까이에서 보긴 틀린 것 같지?,"It seems like we cannot take a closer look anyhow, don't we?","It seems like we cannot take a closer look anyhow, don't we?"
+주말에 부산으로 여행을 다녀왔다면서요? 부산은 어떻던가요?,I heard you went on a trip to Busan last weekend. How was Busan?,I heard you went on a trip to Busan last weekend. How was Busan?
+지역마다 많이 나는 농산물과 해산물이 다르니까요. 그렇다 보니 김치의 맛도 조금씩 다르답니다.,"It's because each region differs in abundant agricultural products and seafood. Because of that, the taste of kimchi is also slightly different.","It's because each region differs in abundant agricultural products and seafood. Because of that, the taste of kimchi is also slightly different."
+아직 눈이 올 만큼 춥지 않은데요.,It's not cold enough to snow yet.,It's not cold enough to snow yet.
+돈만 있다고 해서 꼭 갈 수 있는 것은 아닌 게 대기자만 700명이 넘는대요.,But just because you have money doesn't mean you can go because it is said that there are more than 700 people waiting.,But just because you have money doesn't mean you can go because it is said that there are more than 700 people waiting.
+근데 난 생체 정보를 등록한다는 것 자체에 거부감이 들어.,But I get a feeling of rejection just for registering biometric information in itself.,But I get a feeling of rejection just for registering biometric information in itself.
+줄기세포가 그런 논쟁에서 자유로워졌다고 하기에는 아직 좀 이른 감이 있긴 하지.,It's true that it's a little early to say that stem cells are free from such debate.,It's true that it's a little early to say that stem cells are free from such debate.
+난 차라리 굶으면 굶었지 조금씩 먹는 건 힘들어서 못 하겠던데.,"I would rather starve if I have to starve, but I couldn't bear eating a little bit.","I would rather starve if I have to starve, but I couldn't bear eating a little bit."
+어차피 내려올 텐데 뭐 하러 힘들게 올라가?,Why do you climb up so hard? You are going to come down anyway.,Why do you climb up so hard? You are going to come down anyway.
+왜 이렇게 먹는 둥 마는 둥 해요?,Why are you nibbling on like that?,Why are you nibbling on like that?
+저도 볶음밥을 시킬 걸 괜히 짬뽕을 시켰네요.,I shouldn’t have ordered a jjamppong but instead I better had fried rice.,I shouldn't have ordered a shoe but instead I shouldn’t have ordered a shoe.
+스티브 씨는 충분히 늦게 오고도 남아요.,Steve is enough to be a person to be late.,Steve is enough to be a person to be late.
+어쩌면 그렇게 암산이 빠르세요?,How come you're so quick with mental arithmetic?,How come you're so quick with mental arithmetic?
+오늘 저녁에 치킨을 배달시켜 먹을까 하는데 어때?,"I'd like to have chicken delivered tonight, how's that?","I'd like to have chicken delivered tonight, how's that?"
+비용을 추가하시면 새것으로 교체가 가능합니다.,"If you add the cost, you can replace it with a new one.","If you add the cost, you can replace it with a new one."
+일주일 정도 집을 수리하게 되어서 미리 양해를 구하려고요.,I'd like to ask for your understanding in advance because my house will be on repair for a week.,I'd like to ask for your understanding in advance because my house will be on repair for a week.
+처음엔 좀 어렵지만 몇 번 해 보면 요령이 생길 거야.,"It's a little hard at first, but you will get the know-how of it after a few tries.","It's a little hard at first, but you will get the know-how of it after a few tries."
+햇볕을 잘 쬐어 주기만 하면 돼요.,All you have to do is warming it well under the sunlight.,All you have to do is warming it well under the sunlight.
+콩나물국은 맵지 않아서 먹을 만해요.,Soybean sprouts are not spicy that they are good to eat.,Soybean sprouts are not spicy that they are good to eat.
+메시지를 보면 인증번호가 있으니까 한번 찾아 봐.,"If you look at the message, there's an authentication number so look it up.","If you look at the message, there's an authentication number so look it up."
+아무래도 중국어를 잘해야 할 것 같아서 민철 씨한테 맡겼어요.,I thought the person should be good at Chinese that I left it to Mincheol.,I thought the person should be good at Chinese that I left it to Mincheol.
+문자 메시지로 연락을 드리기보다는 이메일로 연락드리고 찾아뵙는 게 어때?,Why don't you e-mail him before the visit instead of texting?,Why don't you e-mail him before the visit instead of texting?
+이번 주말에 이사를 가는데 혹시 좀 도와줄 수 있어?,"I'm moving this weekend, could you please help me?","I'm moving this weekend, could you please help me?"
+"한편으로는 빨리 직장을 잡아서 돈을 벌고 싶기도 하고, 다른 한편으로는 좀더 공부를 하고 싶기도 합니다.","On the one side, I want to get a job quickly and make money, and on the other side, I also want to study a little more.","On the one side, I want to get a job quickly and make money, and on the other side, I also want to study a little more."
+이렇게 탄산음료를 자주 마시다가는 이가 많이 상할지도 몰라.,"If you drink soda so often, your tooth might get hurt a lot.","If you drink soda so often, your tooth might get hurt a lot."
+빨래방 이용이 처음이라서 그런데 이용 방법을 좀 알려 주세요.,"It's my first time using a laundromat, please tell me how to use.","It's my first time using a laundromat, please tell me how to use."
+항생제가 들어 있으니까 식사 후에 복용하시는 게 좋아요.,You better take it after meals because there are antibiotics in it.,You better take it after meals because there are antibiotics in it.
+초과한 만큼 요금을 더 내셔야 해요.,You have to pay as much as you've exceeded.,You have to pay as much as you've exceeded.
+혹시 괜찮다면 고층으로 방을 배정받을 수 있을까요?,"If it's okay, can I have a room assigned to a high-rise?","If it's okay, can I have a room assigned to a high-rise?"
+저희 직원을 바로 그 방으로 보내서 상황을 파악하도록 하겠습니다.,We will send our staff directly to the room to figure out what happened.,We will send our staff directly to the room to figure out what happened.
+제가 교환을 하는 거라서 새 물건을 받아야 하거든요.,I should be getting a new product because I'm making an exchange.,I should be getting a new product because I'm making an exchange.
+미안한데 네 넥타이 좀 빌려 줄래?,I'm sorry but could you lend me your tie?,I'm sorry but could you lend me your tie?
+그저께 처음 만났는데 벌써 사귄다고?,"You met her for the first time the day before yesterday, and you are already in relationship?","You met her for the first time the day before yesterday, and you are already in relationship?"
+늦으면 늦는다고 말을 했어야지.,You should've told me if you were going to be late.,You should've told me if you were going to be late.
+같은 디자인으로 사이즈가 더 큰 건 없어요?,Do you have a larger one in the same design?,Do you have a larger one in the same design?
+저는 여기가 E열인 줄 알고 앉았어요.,I thought this was row E.,I thought this was row E.
+다 기억할 것까지는 없지만 출장 같은 중요한 일정은 기억해야지.,"You don't have to remember everything, but important schedules like business trips, you should remember.","You don't have to remember everything, but important schedules like business trips, you should remember."
+사진을 어디에 쓰시게요?,What are you going to use the pictures for?,Where are you going to use the pictures?
+"그래, 할 때가 됐지. 청소한 지 일주일도 넘은 것 같아.","Yeah, it's about time. I guess it's been more than a week since we cleaned up.","Yeah, it's about time. I guess it's been more than a week since we cleaned up."
+전 목욕탕을 이용하면 무료로 때를 밀 수 있을 줄 알았어요.,I thought I could shave off dirt free of charge if I use the bath.,I thought I could shave off dirt free of charge if I use the bath.
+제 딴에는 신경을 쓴다고 썼는데 여자 친구는 부족하다고 느꼈나 봐요.,"In my own conceit, I thought myself to be caring, but it seems like she felt insufficient.","In my own conceit, I thought myself to be caring, but it seems like she felt insufficient."
+같은 반 친구를 때리면 어떡해?,How can you hit your classmates?,How can you hit your classmates?
+과연 효과가 있을까요?,Will it work?,Will it work?
+오늘 재주문하시면 내일쯤 새 제품을 받으실 수 있어요.,You can get a new product by tomorrow if you reorder it today.,You can get a new product by tomorrow if you reorder it today.
+나 이따가 삼계탕 먹으러 가는데 우리 같이 갈래?,Do you want to go with me? I'm going to eat Samgyetang later.,Do you want to go with me? I'm going to eat Samgyetang later.
+배달은 어떻게 해 드릴까요?,How would you like your delivery done?,How would you like your delivery done?
+세탁이 끝나는 대로 바로 연락을 드릴게요.,I will get in touch as soon as the laundry is done.,I will get in touch as soon as the laundry is done.
+홈페이지의 설명대로 따라하니까 별로 어렵지 않더라.,I followed the instructions on the homepage and it wasn't too difficult to follow the instructions.,I followed the instructions on the homepage and it wasn't too difficult to follow the instructions.
+내 카드는 동반 2인까지 40퍼센트 할인해 준다고 하니까 내 카드로 결제할게.,"It is said that I can get a 40 percent discount for up to two people with my card, so I will pay with mine.","It is said that I can get a 40 percent discount for up to two people with my card, so I will pay with mine."
+지금 신고 있는 구두는 오래 걸어 다닐 때마다 발뒤꿈치가 까지더라고요.,I got my heels grazed if I walk for a long time with these shoes I'm wearing.,I got my heels grazed if I walk for a long time with these shoes I'm wearing.
+오래 신다보니 굽이 많이 닳았는데 새것으로 갈아 주셨으면 좋겠어요.,The heels are worn out a lot since I've worn it for a long time. I hope you can change it to a new one.,The heels are worn out a lot since I've worn it for a long time. I hope you can change it to a new one.
+난 네가 잘할 줄 알았어.,I knew you'd do well.,I knew you'd do well.
+중요한 경기인데 당연히 봤지.,"Of course, I saw it. It was an important match.","Of course, I saw it. It was an important match."
+도시 생활에 지칠수록 자연을 벗 삼으라는 말도 있잖아.,"There's a saying that the more you get tired of city life, the more you should have nature as your buddy.","There's a saying that the more you get tired of city life, the more you should have nature as your buddy."
+저는 시험을 본다 본다 하는 게 바빠서 못 봤어요.,I kept trying to take the test but I couldn't because I was busy.,I kept trying to take the test but I couldn't because I was busy.
+저는 유양이에요.,I'm Yooyang.,I'm Yooyang.
+유양 씨는 중국 사람이에요?,"Ms. Yooyang, are you Chinese?","Ms. Yooyang, are you Chinese?"
+저는 학생이 아니에요.,I'm not a student.,I'm not a student.
+저 사람은 흐엉 씨예요.,That person is Ms. Huong.,That person is Ms. Huong.
+다니엘 씨는 스티브 씨의 남동생이에요.,Mr. Daniel is Mr. Steve's younger brother. ,Mr. Daniel is Mr. Steve's younger brother.
+흐엉 씨가 회사원이에요.,Ms. Huong is an office worker.,Huong is an office worker.
+아파트의 이름이 뭐예요?,What is the name of your apartment?,What is the name of your apartment?
+헬스클럽이 아주 넓어요.,The fitness club is very large.,The fitness club is very large.
+집이 작아요.,My house is small.,My house is small.
+방에 창문이 있어요.,There is a window in the room.,There is a window in the room.
+집에 애완동물이 있어요?,Is there a pet in your house?,Is there a pet in your house?
+베란다에 의자가 없어요.,There is no chair on the veranda.,There is no chair on the veranda.
+회사가 어디에 있어요?,Where is your company?,Where is your company?
+엘리베이터는 저쪽에 있어요.,The elevator is over there.,The elevator is over there.
+휴게실은 오 층하고 십 층에 있어요.,The lounges are on the fifth and tenth floors.,The lounges are on the fifth and tenth floors.
+복사기는 창문 앞에 있어요.,The copy machine is in front of the window.,The copy machine is in front of the window.
+사무실에 책상이 스무 개 있어요.,There are twenty desks in the office.,There are twenty desks in the office.
+사무실에 직원이 몇 명 있어요?,How many employees are there in the office?,How many employees are there in the office?
+저는 여동생이 있어요.,I have a younger sister.,I have a younger sister.
+누나도 있어요.,"I have an elder sister, too.","I have an elder sister, too."
+성격이 활발해요.,She is outgoing.,She is outgoing.
+여자 친구는 학생이에요.,My girlfriend is a student.,My girlfriend is a student.
+제 여자 친구는 키가 커요.,My girlfriend is tall.,My girlfriend is tall.
+우빈 씨는 여자 친구를 자주 만나요?,"Mr. Woobin, do you meet with your girlfriend often?","Mr. Woobin, do you meet with your girlfriend often?"
+보통 커피숍에서 책을 읽어요.,I read books at coffee shops.,I usually read books at coffee shops.
+우빈 씨는 무슨 영화를 좋아해요?,"Mr. Woobin, what movies do you like?","Mr. Woobin, what movies do you like?"
+저는 운동을 배우고 싶어요.,I want to learn sports.,I want to learn sports.
+유양 씨가 테니스를 배우고 싶어 해요.,Yooyang wants to learn tennis.,Yooyang wants to learn tennis.
+여행을 자주 하지 않아요.,I don't travel often.,I don't travel often.
+저는 클래식 음악을 안 좋아해요.,I don't like classical music.,I don't like classical music.
+오전 열 시 삼십 분이에요.,It's 10:30 a.m.,It's 10:30 a.m.
+보통 11시에 자요.,I usually go to bed at eleven.,I usually go to bed at eleven.
+수영장에 가요.,I am going to the swimming pool.,I am going to the swimming pool.
+9시부터 수업이 있어요.,I have a class starting from nine.,I have a class starting from nine.
+오후 4시까지 수업이 있어요.,I have classes until 4 p.m.,I have classes until 4:00 pm.
+몇 시까지 출근해요?,By what time do you go to work?,By what time do you go to work?
+같이 저녁을 먹을까요?,Shall we have dinner together?,Shall we have dinner together?
+어디에서 식사를 할까요?,Where shall we eat?,Where shall we eat?
+오랜만에 중국 음식을 먹읍시다.,Let's eat Chinese food. It's been a while since we ate Chinese.,Let's eat Chinese food. It's been a while since we ate Chinese.
+돼지갈비랑 냉면이 맛있어요.,Barbecued pork rib and cold noodles are good.,Barbecued pork rib and cold noodles are good.
+여기 돼지갈비 2인분하고 냉면 주세요.,Please give us two orders of barbecued pork rib and one order of cold noodles.,Please give us two orders of barbecued pork rib and one order of cold noodles.
+그럼 돈가스나 치킨을 먹을까요?,"Then, shall we eat pork cutlet or chicken?","Then, shall we eat pork cutlet or chicken?"
+집에서 회사까지 얼마나 걸려요?,How long does it take from your house to your company?,How long does it take from your house to your company?
+빈손으로 갈 수는 없으니까 준비해야지.,We can't go empty handed so we have to prepare something.,We can't go empty handed so we have to prepare something.
+지하철로 갑시다.,Let's take the subway.,Let's take the subway.
+저는 운전을 하지 못해요.,I cannot drive.,I cannot drive.
+버스로 가지 맙시다.,Let's not take the bus.,Let's not take the bus.
+어른 표 1장과 어린이 표 1장 주세요.,Please give me one adult ticket and one child ticket.,Please give me one adult ticket and one child ticket.
+저는 파티에 못 가요.,I cannot go to the party.,I cannot go to the party.
+빵집에 케이크를 사러 가요.,I am going to the bakery to buy a cake.,I am going to the bakery to buy a cake.
+제가 과일과 음료수를 살까요?,Shall I buy some fruit and drinks?,Shall I buy some fruit and drinks?
+잊지 마세요.,Don't forget.,Don't forget.
+제 선물입니다.,It's a gift from me.,It's a gift from me.
+유양 씨 생일 파티가 오늘입니까?,Is Ms. Yooyang's birthday party today?,Is Ms. Yooyang's birthday party today?
+홍차가 아닙니다.,It's not black tea.,It's not black tea.
+배가 고픕니다.,I'm hungry.,I'm hungry.
+맛이 어떻습니까?,How does it taste?,How does it taste?
+생선은 자주 먹지 않습니다.,I don't eat fish often.,I don't eat fish often.
+저희 아버지께서 짜장면을 좋아하십니다.,My father likes Korean black noodles.,My father likes jajangmyun (black noodles).
+무슨 차를 좋아하십니까?,What kind of tea do you like?,What kind of tea do you like?
+우빈 씨가 자료를 준비하십시오.,"Mr. Woobin, please prepare the material.","Mr. Woobin, please prepare the material."
+회의에서 김 부장님께서 발표하십니까?,Is General Manager Kim going to make a presentation at the meeting?,Is Kim Bujangnim going to make a presentation at the meeting?
+다 만들었습니다.,I have finished preparing the material.,I have finished preparing the material.
+저희 팀원들과 같이 디자인을 했습니다.,I designed it together with my team members.,I designed it together with my team members.
+제가 이따가 예약하겠습니다.,I will make a reservation later.,I will make a reservation later.
+누가 발표를 하시겠어요?,Who will make the presentation?,Who will make the presentation?
+여자 친구에게 향수를 선물하고 싶어요.,I would like to buy my girlfriend perfume as a gift.,I would like to buy my girlfriend perfume as a gift.
+어머니께 드리고 싶어요.,I want to give it to my mother.,I want to give it to my mother.
+친구에게서 받았어요.,I received them from my friend.,I received them from my friend.
+할머니께 입학 선물을 받았어요.,My grandmother gave it to me as a gift to celebrate my acceptance to the school.,My mother gavie it to me as a gift to celebrate my acceptance to the school.
+고향에서 왔어요.,They are from my hometown.,They are from my hometown.
+아버지께서 주셨어요.,My father gave it to me.,My father gave it to me.
+저쪽에 자전거를 빌리는 곳이 있어요.,There is a bike rental shop over there.,There is a bike rental shop over there.
+한강에 예쁜 꽃이 피었어요.,Beautiful flowers bloom along the Han River.,Beautiful flowers bloom in the Han River.
+오늘 저녁에 탈 유람선 표예요.,It's the ferry ticket for tonight.,It's the ferry ticket for tonight.
+어제 본 야경이 계속 생각나요.,I keep thinking about the night view I saw yesterday.,I keep thinking about the night view I saw yesterday.
+오늘 한강에 사람이 정말 많군요.,There are a lot of people at the Han River today.,There are a lot of people at the Han River today.
+저는 콜라보다 주스를 더 좋아해요.,I like juice more than coke.,I like juice more than coke.
+집들이를 할 거예요.,I'm going to have a housewarming party.,I'm going to have a housewarming party.
+꼭 갈게요.,I will definitely go.,I will definitely go.
+저는 매운 음식을 잘 먹지만 친구들은 매운 음식을 잘 못 먹어요.,"I am good at eating spicy food, but my friends aren't good at eating spicy food.","I can eat spicy food, but my friends cannot."
+아마 친구도 그 선물을 좋아할 거예요.,"Maybe, your friend will like the present, too.","Maybe, your friend will like the present."
+오늘 집들이에 초대한 친구들이 다 올까요?,Will all of my friends that I invited come to the housewarming party today?,Will all of my friends that I invited come to the housewarming party today?
+집이 깨끗하고 밝았어요.,The house was clean and bright.,The house was clean and bright.
+혼자 살아서 좀 외로워요.,I feel a bit lonely as I live alone.,I feel a bit lonely as I live alone.
+저는 수업이 끝나고 아르바이트를 해요.,I have a part-time job after class.,I have a part-time job after class.
+우리 학교 근처는 집값이 비싸지 않아요?,Isn't a house near our school expensive?,Isn't a house near our school expensive?
+그럼 이번 주말에 만나서 같이 공부해요.,"Then, let's meet this weekend and study together.","Then, let's meet this weekend and study together."
+일주일 후에 갈 거예요.,I'm going back in a week.,I'm going back in a week.
+여행을 한 후에 고향에 돌아갈 거예요.,I'm going back to my hometown after I travel around.,I'm going back to my hometown after I travel around.
+그 가수의 콘서트는 인기가 많으니까 빨리 예매합시다.,"The singer's concert is really popular, so let's hurry and book the tickets.","That singer's concert is really popular, so let's hurry and book the tickets."
+공연이 곧 시작되니까 빨리 오세요.,The performance will soon begin. So please come quickly.,The performance is about to begin. So please come quickly.
+저도 10분 전에 왔어요.,I got here ten minutes ago.,I got here ten minutes ago.
+저 가수 노래 정말 잘하지요?,"That singer sings really well, doesn't he/she?","That singer sings really well, doesn't he?"
+콘서트에 오기 전에 많이 들었어요.,I listened to them a lot before I came to the concert.,I listened to them a lot before I came to the concert.
+다음 콘서트에 가면 꼭 사인을 받을 거예요.,I will definitely get his/her signature when I go to his/her next concert.,I will definitely get his signature when I go to his next concert.
+거기 피자집 아니에요?,Isn't it a pizza house?,Isn't it a pizza house?
+서연 씨한테 한번 물어보세요.,Why don't you ask Ms. Seoyon?,Why don't you ask Ms. Seoyon?
+지금 적을 수 있어요?,Can you write it down now?,Can you write it down now?
+계속 통화 중이에요.,The line remains busy.,The line remains busy.
+지금은 제가 전화를 받을 수 없어요.,I can't speak on the phone right now.,I can't speak on the phone right now.
+급한 일이 아니니까 나중에 다시 걸게요.,"It's not urgent, so I will call later.","It's not urgent, so I will call later."
+골프를 칠 줄 알아요.,I know how to play golf.,I know how to play golf.
+저는 인라인스케이트를 탈 줄 몰라요.,I don't know how to inline skate.,I don't know how to inline skate.
+야구 선수가 되고 싶었어요.,I wanted to become a baseball player.,I wanted to become a baseball player.
+일이 있어서 우리 형만 못 가요.,Only my elder brother can't go because he has work to do.,Only my elder brother can't go because he has work to do.
+하루에 한 시간쯤 해요.,I do for about an hour a day.,I do for about an hour a day.
+방학이 기네요.,The vacation is long.,The vacation is long.
+휴가 때 뭐 할 거예요?,What are you going to do during the holidays?,What are you going to do during the holidays?
+같이 갈래요?,Shall we go together?,Shall we go together?
+기차역으로 바로 오실래요?,Would you like to come directly to the train station?,Would you like to come directly to the train station?
+가까운 섬으로 가려고 해요.,I am going to go to a nearby island.,I am going to go to a nearby island.
+저는 안 가려고 해요.,I am not going though.,I am not going though.
+친구가 준 선물인데 아주 마음에 들어요.,It is a gift from my friend and I like it a lot.,It is a gift from my friend and I like it a lot.
+헤어질 때 울었어요?,Did you cry when you were separated?,Did you cry when you were separated?
+프랑스에 여행을 갔을 때 찍은 사진이에요.,It is a picture that I took when I went on a trip to France.,It is a picture that I took when I went on a trip to France.
+제가 집에 가는데 저를 따라왔어요.,I was on my way home and it followed me.,I was on my way home and it followed me.
+귀걸이가 떨어졌는데 안 보여요.,"I dropped my earring, but I can't find it.","I dropped my earring, but I can't find it."
+제 손바닥에 사인을 해 줬어요.,He signed his signature on my palm.,He signed his signature on my palm.
+길 좀 가르쳐 주시겠어요?,Would you please show me the way?,Would you please show me the way?
+우리 강아지 좀 돌봐 줄 수 있어요?,Can you take care of my puppy?,Can you take care of my puppy?
+집까지 태워 주셔서 고맙습니다.,Thank you for giving me a ride home.,Thank you for giving me a ride home.
+제가 전해 드릴게요.,I'll give it to her.,I'll give it to her.
+제가 짐을 옮겨 드릴까요?,Do you want me to move your stuff?,Do you want me to move your stuff?
+저는 서비스 센터에 맡기려고 했어요.,I was going to leave it at the service center.,I was going to leave it at the service center.
+방이 너무 더러워서 청소를 하고 있어요.,"The room is so messy, so I am cleaning it.","The room is so messy, so I am cleaning it."
+저쪽에 있는 장갑을 끼고 설거지를 하세요.,"Please put on gloves over there. With gloves on, please wash the dishes.","Please put on gloves over there. With gloves on, please wash the dishes."
+저는 청소기를 쓰지 않고 직접 쓸고 닦아요.,I personally sweep and mop without using a vacuum cleaner. .,I personally sweep and mop without using a vacuum cleaner.
+왜 앞치마를 하고 있어요?,Why are you wearing an apron?,Why are you wearing an apron?
+지금 뭐 하고 계세요?,What are you doing now?,What are you doing now?
+집안일 중에서 뭐가 제일 귀찮아요?,"Among household chores, what is the most bothersome?","Among household chores, what is the most bothersome?"
+제 것으로 칩시다.,Let's use mine to play.,Let's play with mine.
+우리 동호회에서 누가 제일 마음에 들어요?,Who do you like most in our club?,Who do you like most in our club?
+영화 감상인 것 같아요.,It seems to be watching movies.,It seems to be watching movies.
+서연 씨는 회사 일이 많은 것 같아요.,It seems that Ms. Seoyon has a lot of work at her company.,It seems that Ms. Seoyon has a lot of work at her company.
+서연 씨도 스티브 씨를 좋아하는 것 같아요?,"Do you think Ms. Seoyon also likes you, Mr. Steve?","Do you think Ms. Seoyon also likes you, Mr. Steve?"
+서연 씨는 영문학을 전공한 것 같아요.,It seems that Ms. Seoyon majored in English literature.,It seems that Ms. Seoyon majored in English literature.
+인형은 싫어할 것 같아요.,I guess she would not like a stuffed animal.,I guess she would not like a stuffed animal.
+야식도 자주 먹고요.,I also eat late night snack often.,I also eat late night snack often.
+스트레스 때문에 잠을 못 자는 것 같아요.,It seems that I don't sleep well because of stress.,It seems that I don't sleep well because of stress.
+요즘 환절기이기 때문에 감기에 걸린 사람이 많아요.,There are many people who have caught a cold because of the seasonal change these days.,There are many people who have caught a cold because of the seasonal change these days.
+저는 커피를 안 마시면 졸리기 때문에 커피를 많이 마셔요.,I drink a lot of coffee because I feel sleepy when I don't drink it.,I drink a lot of coffee because I feel sleepy when I don't drink it.
+감기 때문이에요.,It's because of a cold.,It's because of a cold.
+인스턴트식품을 많이 먹으면 건강이 나빠져요.,"If you eat too much instant food, your health will worsen.","If you eat too much instant food, your health will worsen."
+요즘 일 때문에 스트레스가 쌓여서 건강이 나빠졌어요.,"I've been stressed out lately because of my work, so my health has gotten worse.","I've been stressed out lately because of my work, so my health has gotten worse."
+건강이 좀 안 좋아져서 운동을 시작하려고요.,"My health has gotten worse, so I want to start exercise.","My health has gotten worse, so I want to start exercise."
+두 달 정도 요가를 해 봤어요.,I have tried practicing yoga for about two months.,I have tried practicing yoga for about two months.
+운동을 안 해 봤어요.,I haven't exercised.,I haven't exercised.
+운동하시기 전에 준비 운동부터 하세요.,Please do some warm ups first before you start exercise.,Please do some warm ups first before you start exercise.
+일주일에 세 번은 운동을 하셔야 해요.,You should exercise three times a week.,You should exercise three times a week.
+가족 여행을 가려고 알아보고 있어요.,I am searching information to go on a family trip.,I am searching information to go on a family trip.
+국내 여행을 하고 싶은데 좋은 곳을 알아요?,I want to travel around the country; do you know a good place to go?,I want to travel around the country; do you know a good place to go?
+한옥에서 묵은 적이 있어요.,I have stayed in a traditional Korean house before.,I have stayed in a traditional Korean house before.
+혼자 여행을 한 적이 없어요.,I have not travelled alone before.,I have not travelled alone before.
+지금까지 여행한 곳 중에서 어디가 제일 좋았어요?,Where is the best place you have travelled so far?,Where is the best place you have travelled so far?
+바닷가여서 해물이 신선하겠어요.,The seafood must be fresh as it is on the coast.,The seafood must be fresh as it is on the coast.
+남자 친구하고 헤어진 지 3개월 됐어요.,It's been three months since I broke up with my boyfriend.,It's been three months since I broke up with my boyfriend.
+어떤 여자를 좋아해요?,What type of woman do you like?,What type of woman do you like?
+처음 만났을 때 밝게 웃으세요.,"When you meet somebody for the first time, put on a bright smile.","When you meet somebody for the first time, put on a bright smile."
+저는 동물을 좋아하는데 가족들이 동물을 별로 안 좋아해요.,"I like animals, but my family doesn't like animals that much.","I like animals, but my family doesn't like animals that much."
+다음 주 토요일에 선약이 있는데요.,I have an appointment next Saturday.,I have an appointment next Saturday.
+좋은 분인 것 같아서 몇 번 더 만날까 해요.,I am thinking of meeting him several times more as he seems to be a nice person.,I am thinking of meeting him several times more as he seems to be a nice person.
+그렇게 마음대로 연고를 바르면 안 돼요.,You shouldn't put on any kind of ointment at your own disposal.,You shouldn't put on any kind of ointment at your own disposal.
+우리 아들이 배를 아파해서 왔어요.,We are here because my son has a stomachache,We are here because my son has a stomachache
+눈이 아파서 왔는데요.,I am here because my eyes are sick.,I am here because my eyes are sick.
+아프지 않게 놓아 주세요.,Don’t' make the shot hurt.,Don’t' make the shot hurt.
+이렇게 부었는데 많이 아팠겠어요.,It must have been painful when it got swollen this much.,It must have been painful when it got swollen this much.
+이렇게 치료를 안 받으시면 빨리 안 낫는데요.,"If you don't get treatment like this, you won’t get well soon.","If you don't get treatment like this, you won’t get well soon."
+우리가 약속한 날은 내일인데요.,Our appointment date is tomorrow.,Our appointment date is tomorrow.
+선약이 있어서 못 가는데요.,I can't go because I have an appointment.,I can't go because I have an appointment.
+친구랑 쇼핑할 건데요.,I am going to go shopping with my friend.,I am going to go shopping with my friend.
+우리는 다음에 만나도 돼요.,We can meet next time.,We can meet next time.
+나가려고 준비하는 중이에요.,I'm getting ready to go out.,I'm getting ready to go out.
+새로 생긴 식당에 가 볼까요?,Shall we go to the new restaurant?,Shall we go to the new restaurant?
+남자 티셔츠를 하나 사려고 하는데요.,I am planning to buy a t-shirt for men.,I am planning to buy a t-shirt for men.
+선물 받으시는 분이 무슨 색 옷을 자주 입으시는데요?,What kind of colors does the person who receives the gift wear often?,What kind of colors does the person who receives the gift wear often?
+한번 입어 보세요.,Please try it on.,Please try it on.
+이거 입어 봐도 돼요?,Can I try this on?,Can I try this on?
+이번 주말에만 10퍼센트 할인하는데 하나 사세요.,It's on sale at 10% discount only on this weekend. Please buy one.,It's on sale at 10% discount only on this weekend. Please buy one.
+이 가게는 좀 비싼데 다른 가게에 가 볼까요?,This shop is a bit expensive. Shall we go to another shop?,This shop is a bit expensive. Shall we go to another shop?
+그것으로 주세요.,Please give it to me.,Please give it to me.
+어느 것으로 드릴까요?,Which one would you like?,Which one would you like?
+음료수는 무엇으로 하시겠어요?,What kind of drinks would you like to have?,What kind of drinks would you like to have?
+그것으로 살게요.,I will buy it.,I will buy it.
+다음 주에 고향 친구들이 한국에 오기로 했어요.,My friends from my hometown have decided to come to Korea next week.,My friends from my hometown have decided to come to Korea next week.
+백화점에 가지 말고 이태원에 가 보세요.,Don’t go to a department store. Go to Itaewon instead.,Don’t go to a department store. Go to Itaewon instead.
+놀이공원에서 찍은 사진이야.,This is a picture that I took in the amusement park.,This is a picture that I took in the amusement park.
+놀이공원에 가면 재미있을 것 같아.,It would be fun if we go to the amusement park.,It would be fun if we go to the amusement park.
+놀이 기구는 뭐부터 탈까?,Which ride shall we go on first?,Which ride shall we go on first?
+여기 있는 사람들이 다 롤러코스터 타려고 기다리는 사람들이야?,Are all these people waiting to ride the roller coaster?,Are all these people waiting to ride the roller coaster?
+이렇게 무서운 놀이 기구는 태어나서 처음 타 봤어.,This is my first time to go on this scary ride.,This is my first time to go on this scary ride.
+우리 여기에서 같이 사진 한 장 찍자.,Let's take a picture together here.,Let's take a picture together here.
+방학 때 뭐 하고 지냈어?,How did you spend your vacation?,How did you spend your vacation?
+그 교수님 강의를 또 들을 거야.,Are you going to attend the professor's lecture again?,Are you going to attend the professor's lecture again?
+무슨 동아리에 들 거야?,Which club are you going to join?,Which club are you going to join?
+시험이 끝났으니까 오늘 우리 집에 놀러 와.,"Since the exam is over, please come over to my house.","Since the exam is over, please come over to my house."
+이렇게 과제가 많은 수업은 듣지 말자.,Let's not take the class with so many assignments.,Let's not take the class with so many assignments.
+커피를 너무 많이 마시지 마.,Don't drink coffee too much.,Don't drink coffee too much.
+하늘이 정말 뿌옇다.,The sky is really hazy.,The sky is really hazy.
+단풍놀이 가는구나.,You are going on hiking to watch the autumn leaves.,You are going on hiking to watch the autumn leaves.
+곧 소나기가 오겠다.,It looks like it's going to shower any minute.,It looks like it's going to shower any minute.
+언제 집에 들어올래?,When are you coming back home?,When are you coming back home?
+너무 더워서 집에서 쉴래.,It's so hot that I will take a rest at home.,It's so hot that I will take a rest at home.
+눈이 많이 오는데 다음에 만나는 게 어때요?,"It snows a lot. So, how about meeting next time?","It snows a lot. So, how about meeting next time?"
+예약하고 가시는 게 좋겠어요.,It would be better to reserve one.,It would be better to reserve one.
+영화를 한 번 더 보려고 하는데 같이 보러 갈래요?,I am going to watch the movie once more. Would you like to come with me?,I am going to watch the movie once more. Would you like to come with me?
+매주 월요일마다 새 이야기가 올라와요.,New episodes are released every Monday.,New episodes are released every Monday.
+마음에 드는 문장마다 밑줄을 그어요.,I underline every sentence that I like.,I underline every sentence that I like.
+이 작가의 작품은 읽을 때마다 새로워요.,"Whenever I read this author's work, it always feels new.","Whenever I read this author's work, it always feels new."
+다음 작품도 빨리 나왔으면 좋겠어요.,I wish the next work would be released quickly.,I wish the next work would be released quickly.
+신분증을 꼭 가지고 오세요.,Please make sure to bring your ID.,Please make sure to bring your ID.
+전시회에 가 보니까 제가 아는 그림들도 많이 있었어요.,"When I went to the exhibition, there were a lot of familiar paintings that I knew about.","When I went to the exhibition, there were a lot of familiar paintings that I knew about."
+이번 주말에 패션쇼에 갈 건데 같이 갈래?,I am going to go to a fashion show this weekend. Will you come with me?,I am going to go to a fashion show this weekend. Will you come with me?
+영화 음악뿐만 아니라 배우들의 연기도 훌륭했어.,Not only the music of the movie but also the actors' acting was great.,Not only the music of the movie but also the actors' acting was great.
+요즘 극장에서 무슨 영화가 인기가 많은지 알아요?,Do you know what kind of movies are popular in theaters these days?,Do you know what kind of movies are popular in theaters these days?
+그냥 이번 주말에는 집에서 영화나 보자.,Let's just watch movies at home this weekend.,Let's just watch movies at home this weekend.
+저는 볼링을 어떻게 치는지 몰라요.,I don’t know how to play bowling.,I don’t know how to play bowling.
+노래방에 가지 않을래요?,Why don't we go to a karaoke place?,Why don't we go to a karaoke place?
+그림을 그리고 있었어요.,I was drawing a picture.,I was drawing a picture.
+저기는 많이 뜨겁니?,Is it very hot over there?,Is it very hot over there?
+뭐 먹으면서 볼까?,Shall we eat something while we watch the game?,Shall we eat something while we watch the game?
+시간을 내기가 쉽지 않네.,It's not easy to find time.,It's not easy to find time.
+혹시 서연 씨에게 관심 있는 거 아니에요?,"By any chance, isn't it true that you are interested in Ms. Seoyon?","By any chance, isn't it true that you are interested in Ms. Seoyon?"
+오랜만에 만나도 어색하지 않은 것 같아요.,I don't feel awkward though it’s been a while since I met them last time.,I don't feel awkward though it’s been a while since I met them last time.
+인터넷으로 회비를 내고 가입하면 돼요.,It's OK for you to pay the membership fee online and join it.,It's OK for you to pay the membership fee online and join it.

@@ -1,23 +1,31 @@
-# Ignore virtual environment
-koengage_env/
+# Ignore all CSV files by default
+*.csv
 
-# Ignore model folders
-mbart-koengage-finetuned/
-models/
+# ✅ But keep these important project datasets
+!koengage_dataset.csv
+!koengage_testset.csv
+!conversation_titles.csv
+!conversation_titles_with_translation.csv
+!conversation_titles_with_finetuned_translation.csv
+!conversation_titles_with_testset_predictions.csv
 
-# Python cache and logs
+# Python cache and environment files
 __pycache__/
 *.py[cod]
-*.log
+*.so
 
-# Jupyter notebooks
-.ipynb_checkpoints/
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
 
-# OS & IDE stuff
-.DS_Store
-Thumbs.db
+# Environment folders
+.venv/
+env/
+venv/
+koengage_env/
+
+# VS Code settings
 .vscode/
 
-# Data outputs (optional)
-*.csv
-*.json
+# Model folders
+/models/
+mbart-koengage-finetuned/
